@@ -6,7 +6,7 @@
 *.lof
 *.lot
 *.nlo
-*.log
+#*.log
 *.out
 *.toc
 *.run.xml
@@ -16,3 +16,4 @@
 *.chktexrc
 *.ilg
 *.nls
+.env

@@ -1,3 +1,9 @@
+\LoadClass[a4paper,11pt]{book}
+\def\version{0.1.0}
+
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesClass{style}[2025/12/21 \version]
+
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{hyperref}
@@ -6,5 +12,4 @@
 \usepackage{longtable}
 \usepackage{booktabs}
 
-
-\renewcommand{\contentsname}{Taolennn an danvezioù}
+\usepackage[breton]{babel}
