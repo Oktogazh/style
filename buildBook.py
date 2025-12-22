@@ -113,6 +113,30 @@ def download_xml() -> Optional[ET.Element]:
         return None
 
 
+def buildToC(root: ET.Element) -> List[Dict[str, Any]]:
+    """
+    Build the ToC for XML
+    """
+    print("2. Building Table of Contents...")
+    print("2.1 Fetch the ToC markdown text in root...")
+    # Placeholder implementation
+    toc = []
+    tocMDstr = ""
+    namespace = {"mediawiki": "http://www.mediawiki.org/xml/export-0.11/"}
+
+    print(root.text)
+    for page in root.findall(".//mediawiki:page", namespace):
+        title = page.find("mediawiki:title", namespace).text
+        if title is not None and title == "Taolenn an danvezioù":
+            print("2.2 ToC found in XML, extracting text...")
+            text_elem = page.find(".//mediawiki:text", namespace)
+            if text_elem is not None:
+                tocMDstr = ET.fromstring(text_elem.text).text.strip()
+                break
+    print(f"2.3 Converting ToC to dictionary.")
+    return toc
+
+
 def main() -> None:
     """
     Fetch the XML from the API
@@ -140,7 +164,9 @@ def main() -> None:
             with open(STYLE_CLS, "w", encoding="utf-8") as f:
                 f.write(style_cls_content)
 
-    download_xml()
+    root = download_xml()
+
+    toc = buildToC(root)
 
 
 main()
