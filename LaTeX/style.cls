@@ -12,23 +12,9 @@
 \usepackage{longtable}
 \usepackage{booktabs}
 
+% Check for an update of the package
 \usepackage[breton]{babel}
 
-\newcounter{subchapterusage}
-
-\makeatletter
-\let\latex@@thechapter\thechapter
-\@addtoreset{chapter}{subchapterusage}% Reset the chapter counter if subchapterusage is stepped
-
-\newcommand{\PrepareForSubchapterUsage}{%
-  \xdef\chapvalue{\number\value{chapter}}
-  \stepcounter{subchapterusage}%
-  \renewcommand{\thechapter}{\chapvalue.\latex@@thechapter}
-}
-
-\newcommand{\RestoreToChapterUsage}{%
-  \setcounter{chapter}{\chapvalue}
-  \renewcommand{\thechapter}{\latex@@thechapter}
-}
+\renewcommand{\thepart}{\Alph{part}}
 
 \makeatother

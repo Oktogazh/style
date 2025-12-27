@@ -11,9 +11,12 @@ import os
 import subprocess
 from pathlib import Path
 from xml.etree import ElementTree as ET
+from bs4 import BeautifulSoup
 import pypandoc
 from urllib.parse import urljoin, urlparse, unquote
 from typing import List, Dict, Any, Optional
+from io import TextIOWrapper  # Import from io, not typing
+
 from dotenv import load_dotenv
 
 
@@ -113,6 +116,35 @@ def download_xml() -> Optional[ET.Element]:
         return None
 
 
+def parse_list_items(ol: BeautifulSoup, depth: int = 0) -> List[Dict[str, Any]]:
+    """Recursively parse list items and their nested lists"""
+    items = []
+    for li in ol.find_all("li", recursive=False):
+        # Find the link in this list item
+        link = li.find("a")
+        content = str(li.contents[0])
+        text = content.strip()
+        href = link.get("href", "")
+        page_title = href.replace("_", " ")
+        hasLink = content == str(link)
+        # Convert relative URLs to absolute
+        if href.startswith("/"):
+            href = urljoin(WIKI_BASE_URL, href)
+        item = {
+            "title": page_title if hasLink else text,
+            "url": href if hasLink else "",
+            "hasLink": hasLink,
+            "depth": depth,
+            "children": [],
+        }
+        # Look for nested ordered lists
+        nested_ol = li.find("ol")
+        if nested_ol:
+            item["children"] = parse_list_items(nested_ol, depth + 1)
+        items.append(item)
+    return items
+
+
 def buildToC(root: ET.Element) -> List[Dict[str, Any]]:
     """
     Build the ToC for XML
@@ -124,7 +156,6 @@ def buildToC(root: ET.Element) -> List[Dict[str, Any]]:
     tocMDstr = ""
     namespace = {"mediawiki": "http://www.mediawiki.org/xml/export-0.11/"}
 
-    print(root.text)
     for page in root.findall(".//mediawiki:page", namespace):
         title = page.find("mediawiki:title", namespace).text
         if title is not None and title == "Taolenn an danvezioù":
@@ -134,13 +165,71 @@ def buildToC(root: ET.Element) -> List[Dict[str, Any]]:
                 tocMDstr = ET.fromstring(text_elem.text).text.strip()
                 break
     print(f"2.3 Converting ToC to dictionary.")
-    return toc
+    htmlToC = pypandoc.convert_text(tocMDstr, "html", format="mediawiki")
+    soup = BeautifulSoup(htmlToC, "html.parser")
+    parsed_ToC = parse_list_items(soup.find("ol"))
+    print(f"2.4 ToC parsed! Length: {len(parsed_ToC)} items.")
+    return parsed_ToC
+
+
+def process_structure(
+    file: TextIOWrapper, structure: List[Dict[str, Any]], root: ET.Element
+) -> None:
+    """Process the structure and create LaTeX files"""
+    files = []
+    for idx, item in enumerate(structure, 1):
+        title = item["title"]
+        depth = item["depth"]
+
+        # Create filename
+        safe_title = re.sub(r"[^\w\s-]", "", title)
+        safe_title = re.sub(r"[-\s]+", "_", safe_title)
+        filename = f"{safe_title}.tex"
+
+        filepath = CHAPTERS_DIR / filename
+
+        if item["title"].startswith(":Rummad:"):
+            print(f"Skipping category page: {item['title']}")
+            continue
+
+        print(f"Creating: {'  ' * depth}{filepath}")
+
+        chapter_content = ""
+
+        if item["hasLink"]:
+            namespace = {"mediawiki": "http://www.mediawiki.org/xml/export-0.11/"}
+
+            wiki_content = ""
+            for page in root.findall(".//mediawiki:page", namespace):
+                title = page.find("mediawiki:title", namespace).text
+                if title is not None and title == item["title"]:
+                    wiki_content = page.find(
+                        ".//mediawiki:text", namespace
+                    ).text.strip()
+                else:
+                    pass
+            chapter_content = pypandoc.convert_text(
+                wiki_content, "latex", format="mediawiki"
+            )
+
+        with open(filepath, "w", encoding="utf-8") as f:
+            category = ["part", "chapter", "chapter"]
+            f.write(f"\\{category[depth]}{{{item['title']}}}\n\n")
+            f.write(chapter_content.replace("subsection", "section"))
+
+        file.write(f"{'  ' * depth}\\include{{chapters/{safe_title}}}\n")
+
+        # Process children
+        if item["children"]:
+            process_structure(file, item["children"], root)
+
+    return None
 
 
 def main() -> None:
     """
     Fetch the XML from the API
-    Build the ToC for XML
+    Build the ToC from XML
     Create LaTeX files from the ToC
         Use the title tag from the XML to find chapter titles
             Create a custom example generator to replace the template in wikitext
@@ -167,6 +256,38 @@ def main() -> None:
     root = download_xml()
 
     toc = buildToC(root)
+
+    main_file = OUTPUT_DIR / "main.tex"
+
+    print("3. Creating main LaTeX file...")
+    with open(main_file, "w", encoding="utf-8") as f:
+        f.write(
+            r"""\documentclass{style}
+
+
+\title{Arlivioù ar Brezhoneg}
+\author{Maria Kolesnichenko}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+\cleardoublepage
+
+"""
+        )
+        # Add includes
+        print("3.2 Creating and adding the chapters:")
+        process_structure(f, toc, root)
+
+        f.write(
+            r"""
+\end{document}
+"""
+        )
+
+    print(f"3.3 Main file created successfully!")
 
 
 main()
