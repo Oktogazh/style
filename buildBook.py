@@ -248,6 +248,8 @@ def process_structure(
                     "",
                 )
             )
+        # Remove links from the wikitext
+        chapter_content = re.sub(r"\\url\{.+?\}\{(.+?)\}", r"\1", chapter_content)
 
         with open(filepath, "w", encoding="utf-8") as f:
             category = ["part", "chapter", "chapter"]
