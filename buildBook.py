@@ -238,7 +238,7 @@ def process_structure(
                 )
                 .replace(
                     "\\begin{longtable}[]{@{}ll@{}}",
-                    "\\begin{longtable}[]{p{0.5\\textwidth}p{0.5\\textwidth}}",
+                    "\\begin{longtable}[]{|p{0.45\\textwidth}|p{0.45\\textwidth}}",
                 )
                 .replace(
                     """\\toprule\\noalign{}
