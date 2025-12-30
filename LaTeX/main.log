@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.8.28)  30 DEC 2025 10:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.8.28)  30 DEC 2025 13:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -563,40 +563,44 @@ HA MEIZADOÙ DIAZEZ AN DROIDIGEZH
  []
 
 [24]
-Overfull \hbox (629.0742pt too wide) in alignment at lines 110--112
+Underfull \hbox (badness 2970) in paragraph at lines 112--114
+[]|\T1/cmr/m/n/10.95 Quand ses pau-vres ouailles, déjà,
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 114--117
+[]|\T1/cmr/m/n/10.95 Pa gie e zeñved kaezh da se-laou
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 114--117
+\T1/cmr/m/n/10.95 mouezh Doue pan-eveken, pe-tra a
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 110--118
  [] [] 
  []
 
 
-Overfull \hbox (629.0742pt too wide) in alignment at lines 112--114
- [] [] 
- []
-
-
-Overfull \hbox (629.0742pt too wide) in alignment at lines 114--121
- [] [] 
- []
-
-
-Overfull \hbox (676.3915pt too wide) in alignment at lines 135--137
- [] [] 
- []
-
-
-Overfull \hbox (676.3915pt too wide) in alignment at lines 137--139
- [] [] 
- []
-
-
-Overfull \hbox (676.3915pt too wide) in alignment at lines 139--146
+Overfull \hbox (24.0pt too wide) in alignment at lines 132--140
  [] [] 
  []
 
 
 
 [25]
+Overfull \hbox (24.0pt too wide) in alignment at lines 172--176
+ [] [] 
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 188--192
+ [] [] 
+ []
+
 ! Undefined control sequence.
-l.216 \tightlist
+l.204 \tightlist
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -645,9 +649,13 @@ Overfull \hbox (104.33313pt too wide) in alignment at lines 21--34
 
 
 ]
+Overfull \hbox (24.0pt too wide) in alignment at lines 57--61
+ [] [] 
+ []
+
 ! Undefined control sequence.
-l.102 \tightlist
-                
+l.99 \tightlist
+               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -658,7 +666,7 @@ and I'll forget about whatever was undefined.
 
 [28]
 ! Undefined control sequence.
-l.129 \tightlist
+l.126 \tightlist
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -667,403 +675,275 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (1275.31639pt too wide) in alignment at lines 168--170
+Overfull \hbox (24.0pt too wide) in alignment at lines 165--173
  [] [] 
  []
 
 
-Overfull \hbox (1275.31639pt too wide) in alignment at lines 170--172
- [] [] 
- []
-
-
-Overfull \hbox (1275.31639pt too wide) in alignment at lines 172--179
- [] [] 
- []
-
-
-Overfull \hbox (218.81966pt too wide) in alignment at lines 181--183
- [] [] 
- []
-
-
-Overfull \hbox (218.81966pt too wide) in alignment at lines 183--185
- [] [] 
- []
-
-
-Overfull \hbox (218.81966pt too wide) in alignment at lines 185--189
+Overfull \hbox (24.0pt too wide) in alignment at lines 175--180
  [] [] 
  []
 
 
 
 [29]
-Overfull \hbox (988.73761pt too wide) in alignment at lines 207--209
+Overfull \hbox (24.0pt too wide) in alignment at lines 198--206
  [] [] 
  []
 
 
-Overfull \hbox (988.73761pt too wide) in alignment at lines 209--211
+Underfull \hbox (badness 7981) in paragraph at lines 220--222
+[]|\T1/cmr/m/n/10.95 Ar saout o re-dek a ra dezho
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 218--223
  [] [] 
  []
 
 
-Overfull \hbox (988.73761pt too wide) in alignment at lines 211--218
+Overfull \hbox (24.0pt too wide) in alignment at lines 225--231
  [] [] 
  []
 
 
-Overfull \hbox (164.57776pt too wide) in alignment at lines 240--242
- [] [] 
- []
-
-
-Overfull \hbox (164.57776pt too wide) in alignment at lines 242--244
- [] [] 
- []
-
-
-Overfull \hbox (164.57776pt too wide) in alignment at lines 244--249
- [] [] 
- []
-
-
-Overfull \hbox (12.4769pt too wide) in paragraph at lines 253--259
+Overfull \hbox (12.4769pt too wide) in paragraph at lines 235--241
 \T1/cmr/m/n/10.95 dreuzkas troi-en-noù eus ar yezh fraze-olo-gel, evel ar c\TS1
 /cmr/m/n/10.95 '\T1/cmr/m/n/10.95 hrennlavaroù, ar c\TS1/cmr/m/n/10.95 '\T1/cmr
 /m/n/10.95 hlichedoù
  []
 
 
-Overfull \hbox (1549.39423pt too wide) in alignment at lines 263--265
- [] [] 
+Underfull \hbox (badness 1460) in paragraph at lines 247--251
+\T1/cmr/m/n/10.95 d\TS1/cmr/m/n/10.95 '\T1/cmr/m/n/10.95 arrêter sa be-sogne, l
+a con-fec-tion
  []
 
 
-Overfull \hbox (1549.39423pt too wide) in alignment at lines 265--267
- [] [] 
- []
-
-
-Overfull \hbox (1549.39423pt too wide) in alignment at lines 267--277
- [] [] 
- []
-
-
-Overfull \hbox (1900.71771pt too wide) in alignment at lines 282--284
- [] [] 
- []
-
-
-Overfull \hbox (1900.71771pt too wide) in alignment at lines 284--286
- [] [] 
- []
-
-
-Overfull \hbox (1900.71771pt too wide) in alignment at lines 286--296
+Overfull \hbox (24.0pt too wide) in alignment at lines 245--256
  [] [] 
  []
 
 
 
 [30]
-Overfull \hbox (1683.89188pt too wide) in alignment at lines 301--303
+Underfull \hbox (badness 3068) in paragraph at lines 267--271
+[]|\T1/cmr/m/n/10.95 Un eu-rvezh di-wezha-toc\TS1/cmr/m/n/10.95 '\T1/cmr/m/n/10
+.95 h, pa voe
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 261--272
  [] [] 
  []
 
 
-Overfull \hbox (1683.89188pt too wide) in alignment at lines 303--305
+Overfull \hbox (24.0pt too wide) in alignment at lines 277--288
  [] [] 
  []
 
 
-Overfull \hbox (1683.89188pt too wide) in alignment at lines 305--315
+Underfull \hbox (badness 2903) in paragraph at lines 295--296
+[]|\T1/cmr/m/n/10.95 Le jeudi, Thomas se ren-dit chez
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 293--300
  [] [] 
  []
 
 
-Overfull \hbox (559.90175pt too wide) in alignment at lines 320--322
- [] [] 
- []
-
-
-Overfull \hbox (559.90175pt too wide) in alignment at lines 322--324
- [] [] 
- []
-
-
-Overfull \hbox (559.90175pt too wide) in alignment at lines 324--330
- [] [] 
- []
-
-
-Overfull \hbox (963.06093pt too wide) in alignment at lines 335--337
- [] [] 
- []
-
-
-Overfull \hbox (963.06093pt too wide) in alignment at lines 337--339
- [] [] 
- []
-
-
-Overfull \hbox (963.06093pt too wide) in alignment at lines 339--346
- [] [] 
- []
-
-
-Overfull \hbox (716.833pt too wide) in alignment at lines 370--372
- [] [] 
- []
-
-
-Overfull \hbox (716.833pt too wide) in alignment at lines 372--374
- [] [] 
- []
-
-
-Overfull \hbox (716.833pt too wide) in alignment at lines 374--380
+Overfull \hbox (24.0pt too wide) in alignment at lines 305--313
  [] [] 
  []
 
 
 
 [31]
-Overfull \hbox (821.07169pt too wide) in alignment at lines 415--417
+Overfull \hbox (24.0pt too wide) in alignment at lines 325--329
  [] [] 
  []
 
 
-Overfull \hbox (821.07169pt too wide) in alignment at lines 417--419
- [] [] 
- []
-
-
-Overfull \hbox (821.07169pt too wide) in alignment at lines 419--425
- [] [] 
- []
-
-
-Overfull \hbox (1549.39423pt too wide) in alignment at lines 455--457
- [] [] 
- []
-
-
-Overfull \hbox (1549.39423pt too wide) in alignment at lines 457--459
- [] [] 
- []
-
-
-Overfull \hbox (1549.39423pt too wide) in alignment at lines 459--469
+Overfull \hbox (24.0pt too wide) in alignment at lines 334--341
  [] [] 
  []
 
 
 
 [32]
-Overfull \hbox (2773.7741pt too wide) in alignment at lines 478--480
+Overfull \hbox (24.0pt too wide) in alignment at lines 376--383
  [] [] 
  []
 
 
-Overfull \hbox (2773.7741pt too wide) in alignment at lines 480--482
+Underfull \hbox (badness 1460) in paragraph at lines 415--419
+\T1/cmr/m/n/10.95 d\TS1/cmr/m/n/10.95 '\T1/cmr/m/n/10.95 arrêter sa be-sogne, l
+a con-fec-tion
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 413--424
  [] [] 
  []
 
 
-Overfull \hbox (2773.7741pt too wide) in alignment at lines 482--497
+
+[33]
+Overfull \hbox (24.0pt too wide) in alignment at lines 433--449
  [] [] 
  []
 
 
-Overfull \hbox (6.23276pt too wide) in paragraph at lines 510--513
+Overfull \hbox (6.23276pt too wide) in paragraph at lines 462--465
 \T1/cmr/m/n/10.95 Ar bazenn gen-tañ da as-tenn ar pennad-mañ a vefe kin-nig os-
 til-hoù stil disheñvel
  []
 
 
-Overfull \hbox (76.17139pt too wide) in alignment at lines 519--521
+Overfull \hbox (24.0pt too wide) in alignment at lines 471--476
  [] [] 
  []
 
 
-Overfull \hbox (76.17139pt too wide) in alignment at lines 521--523
+Underfull \hbox (badness 2302) in paragraph at lines 484--486
+[]|\T1/cmr/m/n/10.95 E se-laou a rae ar bar-reziad hep
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 481--487
  [] [] 
  []
 
 
-Overfull \hbox (76.17139pt too wide) in alignment at lines 523--527
- [] [] 
- []
 
+[34])
 
-Overfull \hbox (232.93399pt too wide) in alignment at lines 532--534
- [] [] 
- []
-
-
-Overfull \hbox (232.93399pt too wide) in alignment at lines 534--536
- [] [] 
- []
-
-
-Overfull \hbox (232.93399pt too wide) in alignment at lines 536--541
- [] [] 
- []
-
-)
-
-[33]
+[35]
 \openout2 = `chapters/RummadoÃ¹_gerioÃ¹.aux'.
 
  (./chapters/RummadoÃ¹_gerioÃ¹.tex
 
-[34
+[36
 
 
 
 
 ]
 
-[35]
+[37]
 
-[36])
+[38])
 \openout2 = `chapters/AraogennoÃ¹.aux'.
 
  (./chapters/AraogennoÃ¹.tex
 Pennad 7.
 
+Overfull \hbox (24.0pt too wide) in alignment at lines 35--39
+ [] [] 
+ []
 
-[37
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 44--48
+ [] [] 
+ []
+
+
+
+[39
 
 
 
 
 ]
-Overfull \hbox (1111.37985pt too wide) in alignment at lines 56--58
+Overfull \hbox (24.0pt too wide) in alignment at lines 50--59
  [] [] 
  []
 
 
-Overfull \hbox (1111.37985pt too wide) in alignment at lines 58--60
+Overfull \hbox (24.0pt too wide) in alignment at lines 64--69
  [] [] 
  []
 
 
-Overfull \hbox (1111.37985pt too wide) in alignment at lines 60--68
+Overfull \hbox (24.0pt too wide) in alignment at lines 74--79
  [] [] 
  []
 
 
-Overfull \hbox (219.7024pt too wide) in alignment at lines 73--75
- [] [] 
- []
-
-
-Overfull \hbox (219.7024pt too wide) in alignment at lines 75--77
- [] [] 
- []
-
-
-Overfull \hbox (219.7024pt too wide) in alignment at lines 77--81
- [] [] 
- []
-
-
-Overfull \hbox (4.54852pt too wide) in alignment at lines 86--88
- [] [] 
- []
-
-
-Overfull \hbox (4.54852pt too wide) in alignment at lines 88--90
- [] [] 
- []
-
-
-Overfull \hbox (4.54852pt too wide) in alignment at lines 90--94
- [] [] 
- []
-
-
-Overfull \hbox (1337.3483pt too wide) in alignment at lines 104--106
- [] [] 
- []
-
-
-Overfull \hbox (1337.3483pt too wide) in alignment at lines 106--108
- [] [] 
- []
-
-
-Overfull \hbox (1337.3483pt too wide) in alignment at lines 108--116
+Overfull \hbox (24.0pt too wide) in alignment at lines 89--98
  [] [] 
  []
 
 
 
-[38]
-Overfull \hbox (504.50264pt too wide) in alignment at lines 149--151
+[40]
+Overfull \hbox (24.0pt too wide) in alignment at lines 122--126
  [] [] 
  []
 
 
-Overfull \hbox (504.50264pt too wide) in alignment at lines 151--153
+Overfull \hbox (24.0pt too wide) in alignment at lines 128--134
  [] [] 
  []
 
 
-Overfull \hbox (504.50264pt too wide) in alignment at lines 153--158
+Overfull \hbox (24.0pt too wide) in alignment at lines 143--147
  [] [] 
  []
 
 
-Overfull \hbox (1196.51103pt too wide) in alignment at lines 176--178
+Underfull \hbox (badness 2529) in paragraph at lines 151--153
+[]|\T1/cmr/m/n/10.95 Skedus e oa an oabl, en de-sped
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 153--157
+\T1/cmr/m/n/10.95 niché dans les ar-bres, jusqu\TS1/cmr/m/n/10.95 '\T1/cmr/m/n/
+10.95 à l\TS1/cmr/m/n/10.95 '\T1/cmr/m/n/10.95 île
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 149--158
  [] [] 
  []
 
 
-Overfull \hbox (1196.51103pt too wide) in alignment at lines 178--180
+Underfull \hbox (badness 10000) in paragraph at lines 176--179
+[]|\T1/cmr/m/n/10.95 War a lavar ar ve-mor e oa
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--179
+\T1/cmr/m/n/10.95 alc\TS1/cmr/m/n/10.95 '\T1/cmr/m/n/10.95 hwedered, en enderve
+zh-se a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--179
+\T1/cmr/m/n/10.95 viz Mezheven, o kanañ e-touez
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 173--180
  [] [] 
  []
 
 
-Overfull \hbox (1196.51103pt too wide) in alignment at lines 180--188
- [] [] 
+
+[41]
+Underfull \hbox (badness 4403) in paragraph at lines 184--184
+[]|\T1/cmr/m/n/10.95 Hounnezh ne zeu ket alies d\TS1/cmr/m/n/10.95 '\T1/cmr/m/n
+/10.95 an
  []
 
 
-Overfull \hbox (697.04276pt too wide) in alignment at lines 203--205
- [] [] 
- []
-
-
-Overfull \hbox (697.04276pt too wide) in alignment at lines 205--207
- [] [] 
- []
-
-
-Overfull \hbox (697.04276pt too wide) in alignment at lines 207--213
- [] [] 
- []
-
-
-Overfull \hbox (238.06436pt too wide) in alignment at lines 215--217
- [] [] 
- []
-
-
-Overfull \hbox (238.06436pt too wide) in alignment at lines 217--219
- [] [] 
- []
-
-
-Overfull \hbox (238.06436pt too wide) in alignment at lines 219--224
+Overfull \hbox (24.0pt too wide) in alignment at lines 182--188
  [] [] 
  []
 
 ! Undefined control sequence.
-l.236 \tightlist
+l.200 \tightlist
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1071,32 +951,20 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+)
 
-
-[39])
-
-[40]
+[42]
 \openout2 = `chapters/AnvioÃ¹_gwan.aux'.
 
  (./chapters/AnvioÃ¹_gwan.tex
 Pennad 8.
 
-Overfull \hbox (1100.24442pt too wide) in alignment at lines 26--28
- [] [] 
- []
-
-
-Overfull \hbox (1100.24442pt too wide) in alignment at lines 28--30
- [] [] 
- []
-
-
-Overfull \hbox (1100.24442pt too wide) in alignment at lines 30--37
+Overfull \hbox (24.0pt too wide) in alignment at lines 26--34
  [] [] 
  []
 
 ! Undefined control sequence.
-l.44 \tightlist
+l.41 \tightlist
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1105,138 +973,9 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (3.24112pt too wide) in paragraph at lines 46--49
+Overfull \hbox (3.24112pt too wide) in paragraph at lines 43--46
 []\T1/cmr/m/n/10.95 niveroù pege-men-tiñ, niveroù petvediñ ha niveroù kevren-na
 ñ evel \T1/cmr/m/it/10.95 hanter\T1/cmr/m/n/10.95 ; 
- []
-
-
-
-[41
-
-
-
-
-]
-Overfull \hbox (2.71979pt too wide) in paragraph at lines 67--71
-[]\T1/cmr/m/n/10.95 Hervez []Kervella (1995, 88)[], an anvioù-gwan doareañ en d
-erez-plaen (gwall,
- []
-
-
-Overfull \hbox (1125.99078pt too wide) in alignment at lines 72--74
- [] [] 
- []
-
-
-Overfull \hbox (1125.99078pt too wide) in alignment at lines 74--76
- [] [] 
- []
-
-
-Overfull \hbox (1125.99078pt too wide) in alignment at lines 76--84
- [] [] 
- []
-
-
-Overfull \hbox (33.7728pt too wide) in paragraph at lines 87--87
-[]\T1/cmr/bx/n/14.4 Eztaoler ur c\TS1/cmr/bx/n/14.4 '\T1/cmr/bx/n/14.4 heñveria
-dur gant anvioù-gwan-doareañ 
- []
-
-
-Overfull \hbox (9.92761pt too wide) in paragraph at lines 89--92
-\T1/cmr/m/n/10.95 An anvioù-gwan-doareañ a c\TS1/cmr/m/n/10.95 '\T1/cmr/m/n/10.
-95 haller im-pli-jout ivez evit ez-taoler ur c\TS1/cmr/m/n/10.95 '\T1/cmr/m/n/1
-0.95 heñveriadur,
- []
-
-
-Overfull \hbox (1170.96657pt too wide) in alignment at lines 93--95
- [] [] 
- []
-
-
-Overfull \hbox (1170.96657pt too wide) in alignment at lines 95--97
- [] [] 
- []
-
-
-Overfull \hbox (1170.96657pt too wide) in alignment at lines 97--106
- [] [] 
- []
-
-
-Overfull \hbox (187.08937pt too wide) in alignment at lines 114--116
- [] [] 
- []
-
-
-Overfull \hbox (187.08937pt too wide) in alignment at lines 116--118
- [] [] 
- []
-
-
-Overfull \hbox (187.08937pt too wide) in alignment at lines 118--122
- [] [] 
- []
-
-
-Overfull \hbox (645.10716pt too wide) in alignment at lines 124--126
- [] [] 
- []
-
-
-Overfull \hbox (645.10716pt too wide) in alignment at lines 126--128
- [] [] 
- []
-
-
-Overfull \hbox (645.10716pt too wide) in alignment at lines 128--134
- [] [] 
- []
-
-)
-
-[42]
-\openout2 = `chapters/Doareerien_perchennaÃ±.aux'.
-
- (./chapters/Doareerien_perchennaÃ±.tex
-Pennad 9.
-
-Overfull \hbox (37.07922pt too wide) in paragraph at lines 44--44
-[]\T1/cmr/bx/n/14.4 Gerioù-mell gallek troet gant doa-ree-rien perc\TS1/cmr/bx/
-n/14.4 '\T1/cmr/bx/n/14.4 hennañ
- []
-
-
-Overfull \hbox (1006.15837pt too wide) in alignment at lines 50--52
- [] [] 
- []
-
-
-Overfull \hbox (1006.15837pt too wide) in alignment at lines 52--54
- [] [] 
- []
-
-
-Overfull \hbox (1006.15837pt too wide) in alignment at lines 54--61
- [] [] 
- []
-
-
-Overfull \hbox (880.56126pt too wide) in alignment at lines 63--65
- [] [] 
- []
-
-
-Overfull \hbox (880.56126pt too wide) in alignment at lines 65--67
- [] [] 
- []
-
-
-Overfull \hbox (880.56126pt too wide) in alignment at lines 67--74
- [] [] 
  []
 
 
@@ -1247,122 +986,152 @@ Overfull \hbox (880.56126pt too wide) in alignment at lines 67--74
 
 
 ]
-Overfull \hbox (389.34357pt too wide) in alignment at lines 78--80
+Overfull \hbox (2.71979pt too wide) in paragraph at lines 64--68
+[]\T1/cmr/m/n/10.95 Hervez []Kervella (1995, 88)[], an anvioù-gwan doareañ en d
+erez-plaen (gwall,
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 71--73
+\T1/cmr/m/n/10.95 de l\TS1/cmr/m/n/10.95 '\T1/cmr/m/n/10.95 île lui avait faite
+ et dans les
+ []
+
+
+Underfull \hbox (badness 3189) in paragraph at lines 74--77
+\T1/cmr/m/n/10.95 garv ha c\TS1/cmr/m/n/10.95 '\T1/cmr/m/n/10.95 hwek tao-let d
+ezhañ, a
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 69--78
  [] [] 
  []
 
 
-Overfull \hbox (389.34357pt too wide) in alignment at lines 80--82
+Overfull \hbox (33.7728pt too wide) in paragraph at lines 81--81
+[]\T1/cmr/bx/n/14.4 Eztaoler ur c\TS1/cmr/bx/n/14.4 '\T1/cmr/bx/n/14.4 heñveria
+dur gant anvioù-gwan-doareañ 
+ []
+
+
+Overfull \hbox (9.92761pt too wide) in paragraph at lines 83--86
+\T1/cmr/m/n/10.95 An anvioù-gwan-doareañ a c\TS1/cmr/m/n/10.95 '\T1/cmr/m/n/10.
+95 haller im-pli-jout ivez evit ez-taoler ur c\TS1/cmr/m/n/10.95 '\T1/cmr/m/n/1
+0.95 heñveriadur,
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 87--97
  [] [] 
  []
 
 
-Overfull \hbox (389.34357pt too wide) in alignment at lines 82--88
+Overfull \hbox (24.0pt too wide) in alignment at lines 105--110
  [] [] 
  []
 
 
-Overfull \hbox (1076.94464pt too wide) in alignment at lines 93--95
+Overfull \hbox (24.0pt too wide) in alignment at lines 112--119
  [] [] 
  []
 
 
-Overfull \hbox (1076.94464pt too wide) in alignment at lines 95--97
+
+[44])
+
+[45]
+\openout2 = `chapters/Doareerien_perchennaÃ±.aux'.
+
+ (./chapters/Doareerien_perchennaÃ±.tex
+
+[46
+
+
+
+
+]
+Pennad 9.
+
+Overfull \hbox (37.07922pt too wide) in paragraph at lines 44--44
+[]\T1/cmr/bx/n/14.4 Gerioù-mell gallek troet gant doa-ree-rien perc\TS1/cmr/bx/
+n/14.4 '\T1/cmr/bx/n/14.4 hennañ
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 52--54
+[]|\T1/cmr/m/n/10.95 Sur le con-ti-nent, des maisons hu-
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 50--58
  [] [] 
  []
 
 
-Overfull \hbox (1076.94464pt too wide) in alignment at lines 97--104
+
+[47]
+Overfull \hbox (24.0pt too wide) in alignment at lines 60--68
  [] [] 
  []
 
 
-Overfull \hbox (40.39346pt too wide) in paragraph at lines 120--120
+Overfull \hbox (24.0pt too wide) in alignment at lines 72--79
+ [] [] 
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 84--92
+ [] [] 
+ []
+
+
+Overfull \hbox (40.39346pt too wide) in paragraph at lines 108--108
 []\T1/cmr/bx/n/14.4 Anvioù noaz gallek troet gant doa-ree-rien perc\TS1/cmr/bx/
 n/14.4 '\T1/cmr/bx/n/14.4 hennañ
  []
 
 
-Overfull \hbox (12.4904pt too wide) in paragraph at lines 122--126
+Overfull \hbox (12.4904pt too wide) in paragraph at lines 110--114
 \T1/cmr/m/n/10.95 Pa im-pli-jer un []anv noaz[] e gal-leg e c\TS1/cmr/m/n/10.95
  '\T1/cmr/m/n/10.95 haller ouzh-pen-nañ un anv-gwañ perc\TS1/cmr/m/n/10.95 '\T1
 /cmr/m/n/10.95 hennañ
  []
 
 
-Overfull \hbox (1186.81549pt too wide) in alignment at lines 127--129
- [] [] 
+Underfull \hbox (badness 3343) in paragraph at lines 117--119
+[]|\T1/cmr/m/n/10.95 les pe-tites fenêtres qui em-pris-on-
  []
 
 
-Overfull \hbox (1186.81549pt too wide) in alignment at lines 129--131
- [] [] 
+Underfull \hbox (badness 1163) in paragraph at lines 119--124
+\T1/cmr/m/n/10.95 en aer ar ye-nien, ar glav hag an
  []
 
 
-Overfull \hbox (1186.81549pt too wide) in alignment at lines 131--140
- [] [] 
- []
-
-
-Overfull \hbox (538.40793pt too wide) in alignment at lines 146--148
- [] [] 
- []
-
-
-Overfull \hbox (538.40793pt too wide) in alignment at lines 148--150
- [] [] 
- []
-
-
-Overfull \hbox (538.40793pt too wide) in alignment at lines 150--156
- [] [] 
- []
-
-
-Overfull \hbox (182.89882pt too wide) in alignment at lines 158--160
- [] [] 
- []
-
-
-Overfull \hbox (182.89882pt too wide) in alignment at lines 160--162
- [] [] 
- []
-
-
-Overfull \hbox (182.89882pt too wide) in alignment at lines 162--166
+Overfull \hbox (24.0pt too wide) in alignment at lines 115--125
  [] [] 
  []
 
 
 
-[44]
-Overfull \hbox (964.06833pt too wide) in alignment at lines 168--170
+[48]
+Overfull \hbox (24.0pt too wide) in alignment at lines 131--138
  [] [] 
  []
 
 
-Overfull \hbox (964.06833pt too wide) in alignment at lines 170--172
+Overfull \hbox (24.0pt too wide) in alignment at lines 140--145
  [] [] 
  []
 
 
-Overfull \hbox (964.06833pt too wide) in alignment at lines 172--179
+Overfull \hbox (24.0pt too wide) in alignment at lines 147--155
  [] [] 
  []
 
 
-Overfull \hbox (200.4743pt too wide) in alignment at lines 181--183
- [] [] 
- []
-
-
-Overfull \hbox (200.4743pt too wide) in alignment at lines 183--185
- [] [] 
- []
-
-
-Overfull \hbox (200.4743pt too wide) in alignment at lines 185--189
+Overfull \hbox (24.0pt too wide) in alignment at lines 157--162
  [] [] 
  []
 
@@ -1372,24 +1141,24 @@ Overfull \hbox (200.4743pt too wide) in alignment at lines 185--189
 Overfull \hbox (238.47115pt too wide) has occurred while \output is active
 \T1/cmr/m/sl/10.95 9.4.  DOAREERIEN PERC\TS1/cmr/m/sl/10.95 '\T1/cmr/m/sl/10.95
  HENNAÑ IMPLIJET E BREZHONEG PA GOMZER DIWAR-BENN SAVIADOÙ AR C\TS1/cmr/m/sl/10
-.95 '\T1/cmr/m/sl/10.95 HORF \T1/cmr/m/n/10.95 45
+.95 '\T1/cmr/m/sl/10.95 HORF \T1/cmr/m/n/10.95 49
  []
 
-[45]
+[49]
 \openout2 = `chapters/MorfemoÃ¹.aux'.
 
  (./chapters/MorfemoÃ¹.tex
 
-[46
+[50
 
 
 
 
 ]
 
-[47]
+[51]
 
-[48])
+[52])
 \openout2 = `chapters/LostgerioÃ¹.aux'.
 
  (./chapters/LostgerioÃ¹.tex
@@ -1404,255 +1173,128 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (433.5246pt too wide) in alignment at lines 32--34
+Overfull \hbox (24.0pt too wide) in alignment at lines 32--38
  [] [] 
  []
 
 
-Overfull \hbox (433.5246pt too wide) in alignment at lines 34--36
- [] [] 
- []
-
-
-Overfull \hbox (433.5246pt too wide) in alignment at lines 36--41
- [] [] 
- []
-
-
-Overfull \hbox (307.22827pt too wide) in alignment at lines 43--45
- [] [] 
- []
-
-
-Overfull \hbox (307.22827pt too wide) in alignment at lines 45--47
- [] [] 
- []
-
-
-Overfull \hbox (307.22827pt too wide) in alignment at lines 47--51
+Overfull \hbox (24.0pt too wide) in alignment at lines 40--45
  [] [] 
  []
 
 
 
-[49
+[53
 
 
 
 
 ]
-Overfull \hbox (433.5246pt too wide) in alignment at lines 73--75
+Overfull \hbox (24.0pt too wide) in alignment at lines 55--59
  [] [] 
  []
 
 
-Overfull \hbox (433.5246pt too wide) in alignment at lines 75--77
+Overfull \hbox (24.0pt too wide) in alignment at lines 64--70
  [] [] 
  []
 
 
-Overfull \hbox (433.5246pt too wide) in alignment at lines 77--82
+Overfull \hbox (24.0pt too wide) in alignment at lines 86--97
  [] [] 
  []
 
 
-Overfull \hbox (1478.60242pt too wide) in alignment at lines 98--100
- [] [] 
- []
-
-
-Overfull \hbox (1478.60242pt too wide) in alignment at lines 100--102
- [] [] 
- []
-
-
-Overfull \hbox (1478.60242pt too wide) in alignment at lines 102--112
- [] [] 
- []
-
-
-Overfull \hbox (76.17139pt too wide) in alignment at lines 134--136
- [] [] 
- []
-
-
-Overfull \hbox (76.17139pt too wide) in alignment at lines 136--138
- [] [] 
- []
-
-
-Overfull \hbox (76.17139pt too wide) in alignment at lines 138--142
- [] [] 
- []
-
-
-Overfull \hbox (232.93399pt too wide) in alignment at lines 147--149
- [] [] 
- []
-
-
-Overfull \hbox (232.93399pt too wide) in alignment at lines 149--151
- [] [] 
- []
-
-
-Overfull \hbox (232.93399pt too wide) in alignment at lines 151--156
+Overfull \hbox (24.0pt too wide) in alignment at lines 119--124
  [] [] 
  []
 
 
 
-[50]
-Overfull \hbox (461.47131pt too wide) in alignment at lines 164--166
+[54]
+Underfull \hbox (badness 2302) in paragraph at lines 132--134
+[]|\T1/cmr/m/n/10.95 E se-laou a rae ar bar-reziad hep
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 129--135
  [] [] 
  []
 
 
-Overfull \hbox (461.47131pt too wide) in alignment at lines 166--168
- [] [] 
- []
-
-
-Overfull \hbox (461.47131pt too wide) in alignment at lines 168--173
+Overfull \hbox (24.0pt too wide) in alignment at lines 143--149
  [] [] 
  []
 
 )
 
-[51]
+[55]
 \openout2 = `chapters/StummoÃ¹_verbel_amzer_doare_tu_stumm.aux'.
 
  (./chapters/StummoÃ¹_verbel_amzer_doare_tu_stumm.tex
 
-[52
+[56
 
 
 
 
 ]
 
-[53]
+[57]
 
-[54])
+[58])
 \openout2 = `chapters/Amzer.aux'.
 
  (./chapters/Amzer.tex
 Pennad 11.
 
-Overfull \hbox (130.2949pt too wide) in alignment at lines 12--14
+Overfull \hbox (24.0pt too wide) in alignment at lines 12--18
  [] [] 
  []
 
 
-Overfull \hbox (130.2949pt too wide) in alignment at lines 14--16
+Overfull \hbox (24.0pt too wide) in alignment at lines 27--32
  [] [] 
  []
 
 
-Overfull \hbox (130.2949pt too wide) in alignment at lines 16--21
+Overfull \hbox (24.0pt too wide) in alignment at lines 34--40
  [] [] 
  []
 
 
-Overfull \hbox (70.21053pt too wide) in alignment at lines 30--32
+Overfull \hbox (24.0pt too wide) in alignment at lines 42--49
  [] [] 
  []
 
-
-Overfull \hbox (70.21053pt too wide) in alignment at lines 32--34
- [] [] 
- []
-
-
-Overfull \hbox (70.21053pt too wide) in alignment at lines 34--38
- [] [] 
- []
-
-
-Overfull \hbox (583.24686pt too wide) in alignment at lines 40--42
- [] [] 
- []
-
-
-Overfull \hbox (583.24686pt too wide) in alignment at lines 42--44
- [] [] 
- []
-
-
-Overfull \hbox (583.24686pt too wide) in alignment at lines 44--49
- [] [] 
- []
-
-
-Overfull \hbox (579.42819pt too wide) in alignment at lines 51--53
- [] [] 
- []
-
-
-Overfull \hbox (579.42819pt too wide) in alignment at lines 53--55
- [] [] 
- []
-
-
-Overfull \hbox (579.42819pt too wide) in alignment at lines 55--61
- [] [] 
- []
-
-
-Overfull \hbox (1935.72023pt too wide) in alignment at lines 70--72
- [] [] 
- []
-
-
-Overfull \hbox (1935.72023pt too wide) in alignment at lines 72--74
- [] [] 
- []
-
-
-Overfull \hbox (1935.72023pt too wide) in alignment at lines 74--84
- [] [] 
- []
-
-
-
-[55
+[59
 
 
 
 
 ]
-Overfull \hbox (784.57939pt too wide) in alignment at lines 106--108
+Overfull \hbox (24.0pt too wide) in alignment at lines 58--69
  [] [] 
  []
 
 
-Overfull \hbox (784.57939pt too wide) in alignment at lines 108--110
+Overfull \hbox (24.0pt too wide) in alignment at lines 74--78
  [] [] 
  []
 
 
-Overfull \hbox (784.57939pt too wide) in alignment at lines 110--117
+Overfull \hbox (24.0pt too wide) in alignment at lines 88--96
  [] [] 
  []
 
 
-Overfull \hbox (792.29774pt too wide) in alignment at lines 119--121
- [] [] 
- []
-
-
-Overfull \hbox (792.29774pt too wide) in alignment at lines 121--123
- [] [] 
- []
-
-
-Overfull \hbox (792.29774pt too wide) in alignment at lines 123--130
+Overfull \hbox (24.0pt too wide) in alignment at lines 98--106
  [] [] 
  []
 
 )
 
-[56]
+[60]
 \openout2 = `chapters/Doare.aux'.
 
  (./chapters/Doare.tex
@@ -1663,223 +1305,17 @@ Overfull \hbox (11.94232pt too wide) in paragraph at lines 7--7
  []
 
 
-Overfull \hbox (1076.94464pt too wide) in alignment at lines 13--15
+Overfull \hbox (24.0pt too wide) in alignment at lines 13--21
  [] [] 
  []
 
 
-Overfull \hbox (1076.94464pt too wide) in alignment at lines 15--17
+Overfull \hbox (24.0pt too wide) in alignment at lines 35--42
  [] [] 
  []
 
 
-Overfull \hbox (1076.94464pt too wide) in alignment at lines 17--24
- [] [] 
- []
-
-
-Overfull \hbox (727.2296pt too wide) in alignment at lines 38--40
- [] [] 
- []
-
-
-Overfull \hbox (727.2296pt too wide) in alignment at lines 40--42
- [] [] 
- []
-
-
-Overfull \hbox (727.2296pt too wide) in alignment at lines 42--48
- [] [] 
- []
-
-
-Overfull \hbox (793.84674pt too wide) in alignment at lines 53--55
- [] [] 
- []
-
-
-Overfull \hbox (793.84674pt too wide) in alignment at lines 55--57
- [] [] 
- []
-
-
-Overfull \hbox (793.84674pt too wide) in alignment at lines 57--64
- [] [] 
- []
-
-
-Overfull \hbox (2319.78313pt too wide) in alignment at lines 70--72
- [] [] 
- []
-
-
-Overfull \hbox (2319.78313pt too wide) in alignment at lines 72--74
- [] [] 
- []
-
-
-Overfull \hbox (2319.78313pt too wide) in alignment at lines 74--86
- [] [] 
- []
-
-
-
-[57
-
-
-
-
-]
-Overfull \hbox (130.82964pt too wide) in alignment at lines 111--113
- [] [] 
- []
-
-
-Overfull \hbox (130.82964pt too wide) in alignment at lines 113--115
- [] [] 
- []
-
-
-Overfull \hbox (130.82964pt too wide) in alignment at lines 115--119
- [] [] 
- []
-
-)
-
-[58]
-\openout2 = `chapters/Tu_gra_tu_gouzaÃ±v.aux'.
-
- (./chapters/Tu_gra_tu_gouzaÃ±v.tex
-Pennad 13.
-
-Overfull \hbox (632.92744pt too wide) in alignment at lines 8--10
- [] [] 
- []
-
-
-Overfull \hbox (632.92744pt too wide) in alignment at lines 10--12
- [] [] 
- []
-
-
-Overfull \hbox (632.92744pt too wide) in alignment at lines 12--18
- [] [] 
- []
-
-
-Overfull \hbox (1161.35368pt too wide) in alignment at lines 24--26
- [] [] 
- []
-
-
-Overfull \hbox (1161.35368pt too wide) in alignment at lines 26--28
- [] [] 
- []
-
-
-Overfull \hbox (1161.35368pt too wide) in alignment at lines 28--36
- [] [] 
- []
-
-
-Overfull \hbox (920.80562pt too wide) in alignment at lines 42--44
- [] [] 
- []
-
-
-Overfull \hbox (920.80562pt too wide) in alignment at lines 44--46
- [] [] 
- []
-
-
-Overfull \hbox (920.80562pt too wide) in alignment at lines 46--53
- [] [] 
- []
-
-
-Overfull \hbox (532.27606pt too wide) in alignment at lines 59--61
- [] [] 
- []
-
-
-Overfull \hbox (532.27606pt too wide) in alignment at lines 61--63
- [] [] 
- []
-
-
-Overfull \hbox (532.27606pt too wide) in alignment at lines 63--69
- [] [] 
- []
-
-[59
-
-
-
-
-]
-Overfull \hbox (1080.20813pt too wide) in alignment at lines 81--83
- [] [] 
- []
-
-
-Overfull \hbox (1080.20813pt too wide) in alignment at lines 83--85
- [] [] 
- []
-
-
-Overfull \hbox (1080.20813pt too wide) in alignment at lines 85--93
- [] [] 
- []
-
-)
-
-[60]
-\openout2 = `chapters/Stumm_kadarn_nach_goulennata_estlammaÃ±.aux'.
-
- (./chapters/Stumm_kadarn_nach_goulennata_estlammaÃ±.tex
-Pennad 14.
-
-Overfull \hbox (574.65512pt too wide) in alignment at lines 11--13
- [] [] 
- []
-
-
-Overfull \hbox (574.65512pt too wide) in alignment at lines 13--15
- [] [] 
- []
-
-
-Overfull \hbox (574.65512pt too wide) in alignment at lines 15--21
- [] [] 
- []
-
-
-Overfull \hbox (285.73538pt too wide) in alignment at lines 33--35
- [] [] 
- []
-
-
-Overfull \hbox (285.73538pt too wide) in alignment at lines 35--37
- [] [] 
- []
-
-
-Overfull \hbox (285.73538pt too wide) in alignment at lines 37--42
- [] [] 
- []
-
-
-Overfull \hbox (497.20778pt too wide) in alignment at lines 44--46
- [] [] 
- []
-
-
-Overfull \hbox (497.20778pt too wide) in alignment at lines 46--48
- [] [] 
- []
-
-
-Overfull \hbox (497.20778pt too wide) in alignment at lines 48--54
+Overfull \hbox (24.0pt too wide) in alignment at lines 47--55
  [] [] 
  []
 
@@ -1891,94 +1327,62 @@ Overfull \hbox (497.20778pt too wide) in alignment at lines 48--54
 
 
 ]
-Overfull \hbox (776.81519pt too wide) in alignment at lines 73--75
+Underfull \hbox (badness 1178) in paragraph at lines 63--67
+[]|\T1/cmr/m/n/10.95 Les in-ten-tions dé-fi-laient, an-non-cées
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 61--74
  [] [] 
  []
 
 
-Overfull \hbox (776.81519pt too wide) in alignment at lines 75--77
+Overfull \hbox (24.0pt too wide) in alignment at lines 80--84
  [] [] 
  []
 
 
-Overfull \hbox (776.81519pt too wide) in alignment at lines 77--84
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]|\T1/cmr/m/n/10.95 Quelle er-reur d\TS1/cmr/m/n/10.95 '\T1/cmr/m/n/10.95 acce
+pter cette
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 86--91
+ [] [] 
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 93--98
+ [] [] 
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 100--104
  [] [] 
  []
 
 )
-
-
-Overfull \hbox (15.12079pt too wide) has occurred while \output is active
-\T1/cmr/m/n/10.95 62 \T1/cmr/m/sl/10.95 PENNAD 14.  STUMM KADARN, NAC'H, GOULEN
-NATA, ESTLAMMAÑ
- []
 
 [62]
-\openout2 = `chapters/StummoÃ¹_verbel_all.aux'.
+\openout2 = `chapters/Tu_gra_tu_gouzaÃ±v.aux'.
 
- (./chapters/StummoÃ¹_verbel_all.tex
-Pennad 15.
+ (./chapters/Tu_gra_tu_gouzaÃ±v.tex
+Pennad 13.
 
-Overfull \hbox (1348.32964pt too wide) in alignment at lines 6--8
+Overfull \hbox (24.0pt too wide) in alignment at lines 8--15
  [] [] 
  []
 
 
-Overfull \hbox (1348.32964pt too wide) in alignment at lines 8--10
+Overfull \hbox (24.0pt too wide) in alignment at lines 21--30
  [] [] 
  []
 
 
-Overfull \hbox (1348.32964pt too wide) in alignment at lines 10--18
+Overfull \hbox (24.0pt too wide) in alignment at lines 36--44
  [] [] 
  []
-
-
-Overfull \hbox (727.2296pt too wide) in alignment at lines 23--25
- [] [] 
- []
-
-
-Overfull \hbox (727.2296pt too wide) in alignment at lines 25--27
- [] [] 
- []
-
-
-Overfull \hbox (727.2296pt too wide) in alignment at lines 27--33
- [] [] 
- []
-
-
-Overfull \hbox (716.32277pt too wide) in alignment at lines 35--37
- [] [] 
- []
-
-
-Overfull \hbox (716.32277pt too wide) in alignment at lines 37--39
- [] [] 
- []
-
-
-Overfull \hbox (716.32277pt too wide) in alignment at lines 39--45
- [] [] 
- []
-
-
-Overfull \hbox (1785.57274pt too wide) in alignment at lines 47--49
- [] [] 
- []
-
-
-Overfull \hbox (1785.57274pt too wide) in alignment at lines 49--51
- [] [] 
- []
-
-
-Overfull \hbox (1785.57274pt too wide) in alignment at lines 51--60
- [] [] 
- []
-
-)
 
 [63
 
@@ -1986,11 +1390,43 @@ Overfull \hbox (1785.57274pt too wide) in alignment at lines 51--60
 
 
 ]
+Overfull \hbox (24.0pt too wide) in alignment at lines 50--57
+ [] [] 
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 69--78
+ [] [] 
+ []
+
+)
 
 [64]
-\openout2 = `chapters/KreÃ±vder_ar_ster.aux'.
+\openout2 = `chapters/Stumm_kadarn_nach_goulennata_estlammaÃ±.aux'.
 
- (./chapters/KreÃ±vder_ar_ster.tex
+ (./chapters/Stumm_kadarn_nach_goulennata_estlammaÃ±.tex
+Pennad 14.
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 11--18
+ [] [] 
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 30--36
+ [] [] 
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 38--45
+ [] [] 
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 55--59
+ [] [] 
+ []
+
+
 
 [65
 
@@ -1998,8 +1434,75 @@ Overfull \hbox (1785.57274pt too wide) in alignment at lines 51--60
 
 
 ]
+Overfull \hbox (24.0pt too wide) in alignment at lines 61--69
+ [] [] 
+ []
 
-[66])
+)
+
+
+Overfull \hbox (15.12079pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10.95 66 \T1/cmr/m/sl/10.95 PENNAD 14.  STUMM KADARN, NAC'H, GOULEN
+NATA, ESTLAMMAÑ
+ []
+
+[66]
+\openout2 = `chapters/StummoÃ¹_verbel_all.aux'.
+
+ (./chapters/StummoÃ¹_verbel_all.tex
+Pennad 15.
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 6--15
+ [] [] 
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 20--27
+ [] [] 
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 29--36
+ [] [] 
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 43--47
+\T1/cmr/m/n/10.95 hade-goù ha kuzhutade-goù, avelioù-
+ []
+
+
+Underfull \hbox (badness 2726) in paragraph at lines 43--47
+\T1/cmr/m/n/10.95 digamm, pre-doù moan poen-taouet
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 38--48
+ [] [] 
+ []
+
+
+
+[67
+
+
+
+
+])
+
+[68]
+\openout2 = `chapters/KreÃ±vder_ar_ster.aux'.
+
+ (./chapters/KreÃ±vder_ar_ster.tex
+
+[69
+
+
+
+
+]
+
+[70])
 \openout2 = `chapters/VerboÃ¹_ha_stummoÃ¹_damskoazellaÃ±_e_brezhoneg.aux'.
 
  (./chapters/VerboÃ¹_ha_stummoÃ¹_damskoazellaÃ±_e_brezhoneg.tex
@@ -2015,437 +1518,57 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[67
+[71
 
 
 
 
 ]
-Overfull \hbox (146.83295pt too wide) in alignment at lines 50--52
+Overfull \hbox (24.0pt too wide) in alignment at lines 50--55
  [] [] 
  []
 
 
-Overfull \hbox (146.83295pt too wide) in alignment at lines 52--54
+Overfull \hbox (24.0pt too wide) in alignment at lines 60--66
  [] [] 
  []
 
 
-Overfull \hbox (146.83295pt too wide) in alignment at lines 54--58
+Overfull \hbox (24.0pt too wide) in alignment at lines 68--74
  [] [] 
  []
 
 
-Overfull \hbox (553.87537pt too wide) in alignment at lines 63--65
- [] [] 
- []
-
-
-Overfull \hbox (553.87537pt too wide) in alignment at lines 65--67
- [] [] 
- []
-
-
-Overfull \hbox (553.87537pt too wide) in alignment at lines 67--72
- [] [] 
- []
-
-
-Overfull \hbox (552.5092pt too wide) in alignment at lines 74--76
- [] [] 
- []
-
-
-Overfull \hbox (552.5092pt too wide) in alignment at lines 76--78
- [] [] 
- []
-
-
-Overfull \hbox (552.5092pt too wide) in alignment at lines 78--83
- [] [] 
- []
-
-
-Overfull \hbox (794.359pt too wide) in alignment at lines 88--90
- [] [] 
- []
-
-
-Overfull \hbox (794.359pt too wide) in alignment at lines 90--92
- [] [] 
- []
-
-
-Overfull \hbox (794.359pt too wide) in alignment at lines 92--98
- [] [] 
- []
-
-
-Overfull \hbox (727.2296pt too wide) in alignment at lines 100--102
- [] [] 
- []
-
-
-Overfull \hbox (727.2296pt too wide) in alignment at lines 102--104
- [] [] 
- []
-
-
-Overfull \hbox (727.2296pt too wide) in alignment at lines 104--110
- [] [] 
- []
-
-
-Overfull \hbox (467.47882pt too wide) in alignment at lines 112--114
- [] [] 
- []
-
-
-Overfull \hbox (467.47882pt too wide) in alignment at lines 114--116
- [] [] 
- []
-
-
-Overfull \hbox (467.47882pt too wide) in alignment at lines 116--121
- [] [] 
- []
-
-
-Overfull \hbox (1492.77078pt too wide) in alignment at lines 126--128
- [] [] 
- []
-
-
-Overfull \hbox (1492.77078pt too wide) in alignment at lines 128--130
- [] [] 
- []
-
-
-Overfull \hbox (1492.77078pt too wide) in alignment at lines 130--138
- [] [] 
- []
-
-
-Overfull \hbox (1347.45775pt too wide) in alignment at lines 144--146
- [] [] 
- []
-
-
-Overfull \hbox (1347.45775pt too wide) in alignment at lines 146--148
- [] [] 
- []
-
-
-Overfull \hbox (1347.45775pt too wide) in alignment at lines 148--156
- [] [] 
- []
-
-
-
-
-Overfull \hbox (33.5587pt too wide) has occurred while \output is active
-\T1/cmr/m/n/10.95 68 \T1/cmr/m/sl/10.95 PENNAD 16.  VERBOÙ HA STUMMOÙ DAMSKOAZE
-LLAÑ E BREZHONEG
- []
-
-[68]
-Overfull \hbox (1240.47197pt too wide) in alignment at lines 158--160
- [] [] 
- []
-
-
-Overfull \hbox (1240.47197pt too wide) in alignment at lines 160--162
- [] [] 
- []
-
-
-Overfull \hbox (1240.47197pt too wide) in alignment at lines 162--169
- [] [] 
- []
-
-
-Overfull \hbox (3091.61531pt too wide) in alignment at lines 186--188
- [] [] 
- []
-
-
-Overfull \hbox (3091.61531pt too wide) in alignment at lines 188--190
- [] [] 
- []
-
-
-Overfull \hbox (3091.61531pt too wide) in alignment at lines 190--203
- [] [] 
- []
-
-
-Overfull \hbox (1407.9019pt too wide) in alignment at lines 208--210
- [] [] 
- []
-
-
-Overfull \hbox (1407.9019pt too wide) in alignment at lines 210--212
- [] [] 
- []
-
-
-Overfull \hbox (1407.9019pt too wide) in alignment at lines 212--220
- [] [] 
- []
-
-
-Overfull \hbox (930.87334pt too wide) in alignment at lines 222--224
- [] [] 
- []
-
-
-Overfull \hbox (930.87334pt too wide) in alignment at lines 224--226
- [] [] 
- []
-
-
-Overfull \hbox (930.87334pt too wide) in alignment at lines 226--232
- [] [] 
- []
-
-
-Overfull \hbox (371.59975pt too wide) in alignment at lines 237--239
- [] [] 
- []
-
-
-Overfull \hbox (371.59975pt too wide) in alignment at lines 239--241
- [] [] 
- []
-
-
-Overfull \hbox (371.59975pt too wide) in alignment at lines 241--246
- [] [] 
- []
-
-
-Overfull \hbox (1923.77266pt too wide) in alignment at lines 248--250
- [] [] 
- []
-
-
-Overfull \hbox (1923.77266pt too wide) in alignment at lines 250--252
- [] [] 
- []
-
-
-Overfull \hbox (1923.77266pt too wide) in alignment at lines 252--261
- [] [] 
- []
-
-
-
-[69]
-Overfull \hbox (637.04906pt too wide) in alignment at lines 295--297
- [] [] 
- []
-
-
-Overfull \hbox (637.04906pt too wide) in alignment at lines 297--299
- [] [] 
- []
-
-
-Overfull \hbox (637.04906pt too wide) in alignment at lines 299--305
- [] [] 
- []
-
-
-Overfull \hbox (37.61119pt too wide) in alignment at lines 312--314
- [] [] 
- []
-
-
-Overfull \hbox (37.61119pt too wide) in alignment at lines 314--316
- [] [] 
- []
-
-
-Overfull \hbox (37.61119pt too wide) in alignment at lines 316--320
- [] [] 
- []
-
-
-Overfull \hbox (15.66174pt too wide) in alignment at lines 322--324
- [] [] 
- []
-
-
-Overfull \hbox (15.66174pt too wide) in alignment at lines 324--326
- [] [] 
- []
-
-
-Overfull \hbox (15.66174pt too wide) in alignment at lines 326--330
- [] [] 
- []
-
-
-Overfull \hbox (690.26608pt too wide) in alignment at lines 336--338
- [] [] 
- []
-
-
-Overfull \hbox (690.26608pt too wide) in alignment at lines 338--340
- [] [] 
- []
-
-
-Overfull \hbox (690.26608pt too wide) in alignment at lines 340--346
- [] [] 
- []
-
-
-Overfull \hbox (2143.95587pt too wide) in alignment at lines 352--354
- [] [] 
- []
-
-
-Overfull \hbox (2143.95587pt too wide) in alignment at lines 354--356
- [] [] 
- []
-
-
-Overfull \hbox (2143.95587pt too wide) in alignment at lines 356--366
- [] [] 
- []
-
-
-
-
-Overfull \hbox (33.5587pt too wide) has occurred while \output is active
-\T1/cmr/m/n/10.95 70 \T1/cmr/m/sl/10.95 PENNAD 16.  VERBOÙ HA STUMMOÙ DAMSKOAZE
-LLAÑ E BREZHONEG
- []
-
-[70]
-Overfull \hbox (313.21037pt too wide) in alignment at lines 368--370
- [] [] 
- []
-
-
-Overfull \hbox (313.21037pt too wide) in alignment at lines 370--372
- [] [] 
- []
-
-
-Overfull \hbox (313.21037pt too wide) in alignment at lines 372--377
- [] [] 
- []
-
-
-Overfull \hbox (574.57065pt too wide) in alignment at lines 383--385
- [] [] 
- []
-
-
-Overfull \hbox (574.57065pt too wide) in alignment at lines 385--387
- [] [] 
- []
-
-
-Overfull \hbox (574.57065pt too wide) in alignment at lines 387--392
- [] [] 
- []
-
-
-Overfull \hbox (295.18837pt too wide) in alignment at lines 394--396
- [] [] 
- []
-
-
-Overfull \hbox (295.18837pt too wide) in alignment at lines 396--398
- [] [] 
- []
-
-
-Overfull \hbox (295.18837pt too wide) in alignment at lines 398--402
- [] [] 
- []
-
-
-Overfull \hbox (419.2375pt too wide) in alignment at lines 407--409
- [] [] 
+Underfull \hbox (badness 4353) in paragraph at lines 81--82
+[]|\T1/cmr/m/n/10.95 Certainement Dieu n'avait pu se
  []
 
 
-Overfull \hbox (419.2375pt too wide) in alignment at lines 409--411
+Overfull \hbox (24.0pt too wide) in alignment at lines 79--86
  [] [] 
  []
 
 
-Overfull \hbox (419.2375pt too wide) in alignment at lines 411--416
+Overfull \hbox (24.0pt too wide) in alignment at lines 88--95
  [] [] 
  []
 
 
-Overfull \hbox (1069.31976pt too wide) in alignment at lines 431--433
- [] [] 
- []
-
-
-Overfull \hbox (1069.31976pt too wide) in alignment at lines 433--435
- [] [] 
- []
-
-
-Overfull \hbox (1069.31976pt too wide) in alignment at lines 435--443
- [] [] 
- []
-
-
-Overfull \hbox (1205.10728pt too wide) in alignment at lines 445--447
- [] [] 
- []
-
-
-Overfull \hbox (1205.10728pt too wide) in alignment at lines 447--449
- [] [] 
- []
-
-
-Overfull \hbox (1205.10728pt too wide) in alignment at lines 449--456
- [] [] 
- []
-
-
-
-[71]
-Overfull \hbox (534.5pt too wide) in alignment at lines 471--473
- [] [] 
- []
-
-
-Overfull \hbox (534.5pt too wide) in alignment at lines 473--475
- [] [] 
- []
-
-
-Overfull \hbox (534.5pt too wide) in alignment at lines 475--480
- [] [] 
+Underfull \hbox (badness 4819) in paragraph at lines 99--100
+[]|\T1/cmr/m/n/10.95 ^^S C'est pos-si-ble, répondaient les
  []
 
 
-Overfull \hbox (1063.68066pt too wide) in alignment at lines 492--494
- [] [] 
+Underfull \hbox (badness 1502) in paragraph at lines 100--102
+[]|\T1/cmr/m/n/10.95 ^^S E c'hell bezañ, ^^T a eil-gerie ar
  []
 
 
-Overfull \hbox (1063.68066pt too wide) in alignment at lines 494--496
+Overfull \hbox (24.0pt too wide) in alignment at lines 97--103
  [] [] 
  []
 
-
-Overfull \hbox (1063.68066pt too wide) in alignment at lines 496--503
- [] [] 
- []
 
-)
 
 
 Overfull \hbox (33.5587pt too wide) has occurred while \output is active
@@ -2454,385 +1577,461 @@ LLAÑ E BREZHONEG
  []
 
 [72]
+Overfull \hbox (24.0pt too wide) in alignment at lines 108--117
+ [] [] 
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 123--132
+ [] [] 
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 134--142
+ [] [] 
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 148--152
+ [] [] 
+ []
+
+
+Underfull \hbox (badness 3396) in paragraph at lines 163--169
+\T1/cmr/m/n/10.95 azpiaouañ a ra he dou-vezioù ha
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 156--170
+ [] [] 
+ []
+
+
+
+[73]
+Underfull \hbox (badness 2368) in paragraph at lines 179--183
+\T1/cmr/m/n/10.95 hec'h-unanpenn, e ti ar pes-ke-taer
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 175--184
+ [] [] 
+ []
+
+
+Underfull \hbox (badness 3954) in paragraph at lines 188--189
+[]|\T1/cmr/m/n/10.95 Thomas les ren-con-trait à chaque
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 186--193
+ [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--203
+[]|\T1/cmr/m/n/10.95 Rankout a rafe Jul mont da
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 201--203
+\T1/cmr/m/n/10.95 birc'hirinaj da Sant-Tujen pa vefe
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 198--204
+ [] [] 
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 208--211
+[]|\T1/cmr/m/n/10.95 Quand il s'éloigna, le fils Boulch
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 208--211
+\T1/cmr/m/n/10.95 n'estimait pas moins son recteur
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 208--211
+\T1/cmr/m/n/10.95 ques-tion du catéchisme:  doiton
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 206--216
+ [] [] 
+ []
+
+
+
+
+Overfull \hbox (33.5587pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10.95 74 \T1/cmr/m/sl/10.95 PENNAD 16.  VERBOÙ HA STUMMOÙ DAMSKOAZE
+LLAÑ E BREZHONEG
+ []
+
+[74]
+Overfull \hbox (24.0pt too wide) in alignment at lines 250--257
+ [] [] 
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 266--266
+[]|\T1/cmr/m/n/10.95 Chaque îlien eût dû se tenir aux
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 264--269
+ [] [] 
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 271--276
+ [] [] 
+ []
+
+[75]
+Underfull \hbox (badness 3118) in paragraph at lines 284--285
+[]|\T1/cmr/m/n/10.95 Elle au-rait dû cent fois prévenir
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 282--289
+ [] [] 
+ []
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 297--300
+\T1/cmr/m/n/10.95 taient par les portes de der-rière
+ []
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 297--300
+\T1/cmr/m/n/10.95 et couraient chez des amies dans
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 297--300
+\T1/cmr/m/n/10.95 l'espérance de précéder les mes-
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 295--306
+ [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--311
+[]|\T1/cmr/m/n/10.95 Les par-ents, pour le principe,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--311
+\T1/cmr/m/n/10.95 s'apprêtaient à veiller quelques
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 308--314
+ [] [] 
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 323--325
+\T1/cmr/m/n/10.95 daman-tet outañ, un dis-terig pan-
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 320--326
+ [] [] 
+ []
+
+
+Underfull \hbox (badness 1365) in paragraph at lines 330--330
+[]|\T1/cmr/m/n/10.95 Il sen-tait que Thomas méri-tait la
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 328--333
+ [] [] 
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 338--344
+ [] [] 
+ []
+
+
+
+
+Overfull \hbox (33.5587pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10.95 76 \T1/cmr/m/sl/10.95 PENNAD 16.  VERBOÙ HA STUMMOÙ DAMSKOAZE
+LLAÑ E BREZHONEG
+ []
+
+[76]
+Overfull \hbox (24.0pt too wide) in alignment at lines 359--368
+ [] [] 
+ []
+
+
+Underfull \hbox (badness 2213) in paragraph at lines 372--374
+[]|\T1/cmr/m/n/10.95 Il fal-lait que le recteur écrivît à
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 370--378
+ [] [] 
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 380--384
+ [] [] 
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 390--396
+ [] [] 
+ []
+
+
+
+[77]
+Underfull \hbox (badness 2680) in paragraph at lines 410--412
+\T1/cmr/m/n/10.95 d'hésitations, des sac-cades timides
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 410--412
+\T1/cmr/m/n/10.95 qui se changeaient en sac-cades
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 408--416
+ [] [] 
+ []
+
+)
+
+
+Overfull \hbox (33.5587pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10.95 78 \T1/cmr/m/sl/10.95 PENNAD 16.  VERBOÙ HA STUMMOÙ DAMSKOAZE
+LLAÑ E BREZHONEG
+ []
+
+[78]
 \openout2 = `chapters/FrammoÃ¹_sintaktek.aux'.
 
  (./chapters/FrammoÃ¹_sintaktek.tex
 
-[73
+[79
 
 
 
 
 ]
 
-[74])
+[80])
 \openout2 = `chapters/Ar_fokus.aux'.
 
  (./chapters/Ar_fokus.tex
 Pennad 17.
 
-Overfull \hbox (773.44075pt too wide) in alignment at lines 13--15
+Overfull \hbox (24.0pt too wide) in alignment at lines 13--20
  [] [] 
  []
 
 
-Overfull \hbox (773.44075pt too wide) in alignment at lines 15--17
+Overfull \hbox (24.0pt too wide) in alignment at lines 22--28
  [] [] 
  []
 
 
-Overfull \hbox (773.44075pt too wide) in alignment at lines 17--23
+Underfull \hbox (badness 4660) in paragraph at lines 40--43
+[]|\T1/cmr/m/n/10.95 Personne, ce jour-là, n\TS1/cmr/m/n/10.95 '\T1/cmr/m/n/10.
+95 a ren-con-
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 38--48
  [] [] 
  []
 
 
-Overfull \hbox (161.86153pt too wide) in alignment at lines 25--27
- [] [] 
- []
-
-
-Overfull \hbox (161.86153pt too wide) in alignment at lines 27--29
- [] [] 
- []
-
-
-Overfull \hbox (161.86153pt too wide) in alignment at lines 29--34
- [] [] 
- []
-
-
-Overfull \hbox (1290.47536pt too wide) in alignment at lines 44--46
- [] [] 
- []
-
-
-Overfull \hbox (1290.47536pt too wide) in alignment at lines 46--48
- [] [] 
- []
-
-
-Overfull \hbox (1290.47536pt too wide) in alignment at lines 48--57
- [] [] 
- []
-
-
-Overfull \hbox (1390.57874pt too wide) in alignment at lines 59--61
- [] [] 
- []
-
-
-Overfull \hbox (1390.57874pt too wide) in alignment at lines 61--63
- [] [] 
- []
-
-
-Overfull \hbox (1390.57874pt too wide) in alignment at lines 63--71
- [] [] 
- []
-
-
-Overfull \hbox (1662.91302pt too wide) in alignment at lines 73--75
- [] [] 
- []
-
-
-Overfull \hbox (1662.91302pt too wide) in alignment at lines 75--77
- [] [] 
- []
-
-
-Overfull \hbox (1662.91302pt too wide) in alignment at lines 77--86
- [] [] 
- []
-
-
-Overfull \hbox (875.51382pt too wide) in alignment at lines 88--90
- [] [] 
- []
-
-
-Overfull \hbox (875.51382pt too wide) in alignment at lines 90--92
- [] [] 
- []
-
-
-Overfull \hbox (875.51382pt too wide) in alignment at lines 92--100
+Overfull \hbox (24.0pt too wide) in alignment at lines 50--59
  [] [] 
  []
 
 
 
-[75
+[81
 
 
 
 
 ]
-Overfull \hbox (880.56126pt too wide) in alignment at lines 108--110
+Underfull \hbox (badness 3088) in paragraph at lines 63--66
+[]|\T1/cmr/m/n/10.95 Il écoutait, les yeux bais-sés, son
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 63--66
+\T1/cmr/m/n/10.95 plancher lui ap-pa-raître sa nou-velle
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 61--71
  [] [] 
  []
 
 
-Overfull \hbox (880.56126pt too wide) in alignment at lines 110--112
+Overfull \hbox (24.0pt too wide) in alignment at lines 73--82
  [] [] 
  []
 
 
-Overfull \hbox (880.56126pt too wide) in alignment at lines 112--119
+Overfull \hbox (24.0pt too wide) in alignment at lines 90--98
  [] [] 
  []
 
 
-Overfull \hbox (962.86916pt too wide) in alignment at lines 123--125
+Overfull \hbox (24.0pt too wide) in alignment at lines 102--110
  [] [] 
  []
 
 
-Overfull \hbox (962.86916pt too wide) in alignment at lines 125--127
- [] [] 
- []
-
-
-Overfull \hbox (962.86916pt too wide) in alignment at lines 127--134
- [] [] 
- []
-
-
-Overfull \hbox (1069.31976pt too wide) in alignment at lines 139--141
- [] [] 
- []
-
-
-Overfull \hbox (1069.31976pt too wide) in alignment at lines 141--143
- [] [] 
- []
-
-
-Overfull \hbox (1069.31976pt too wide) in alignment at lines 143--151
- [] [] 
- []
-
-
-Overfull \hbox (285.73538pt too wide) in alignment at lines 159--161
- [] [] 
- []
-
-
-Overfull \hbox (285.73538pt too wide) in alignment at lines 161--163
- [] [] 
- []
-
-
-Overfull \hbox (285.73538pt too wide) in alignment at lines 163--168
- [] [] 
- []
-
-
-Overfull \hbox (629.0742pt too wide) in alignment at lines 178--180
- [] [] 
- []
-
-
-Overfull \hbox (629.0742pt too wide) in alignment at lines 180--182
- [] [] 
- []
-
-
-Overfull \hbox (629.0742pt too wide) in alignment at lines 182--189
- [] [] 
- []
-
-
-Overfull \hbox (1713.6725pt too wide) in alignment at lines 194--196
- [] [] 
- []
-
-
-Overfull \hbox (1713.6725pt too wide) in alignment at lines 196--198
- [] [] 
- []
-
-
-Overfull \hbox (1713.6725pt too wide) in alignment at lines 198--209
+Overfull \hbox (24.0pt too wide) in alignment at lines 115--124
  [] [] 
  []
 
 
 
-[76]
-Overfull \hbox (504.50264pt too wide) in alignment at lines 218--220
+[82]
+Overfull \hbox (24.0pt too wide) in alignment at lines 132--138
  [] [] 
  []
 
 
-Overfull \hbox (504.50264pt too wide) in alignment at lines 220--222
+Underfull \hbox (badness 2970) in paragraph at lines 150--152
+[]|\T1/cmr/m/n/10.95 Quand ses pau-vres ouailles, déjà,
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 152--155
+[]|\T1/cmr/m/n/10.95 Pa gie e zeñved kaezh da se-laou
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 152--155
+\T1/cmr/m/n/10.95 mouezh Doue pan-eveken, pe-tra a
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 148--156
  [] [] 
  []
 
 
-Overfull \hbox (504.50264pt too wide) in alignment at lines 222--227
+Overfull \hbox (24.0pt too wide) in alignment at lines 161--173
  [] [] 
  []
 
 
-Overfull \hbox (2124.80055pt too wide) in alignment at lines 236--238
+Overfull \hbox (24.0pt too wide) in alignment at lines 182--188
  [] [] 
  []
 
 
-Overfull \hbox (2124.80055pt too wide) in alignment at lines 238--240
+
+[83]
+Underfull \hbox (badness 8113) in paragraph at lines 199--203
+[]|\T1/cmr/m/n/10.95 Ainsi donc, lui, pécheur pub-lic,
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 197--210
  [] [] 
  []
 
 
-Overfull \hbox (2124.80055pt too wide) in alignment at lines 240--252
+Underfull \hbox (badness 10000) in paragraph at lines 214--216
+[]|\T1/cmr/m/n/10.95 Mais l\TS1/cmr/m/n/10.95 '\T1/cmr/m/n/10.95 exemple de son
+ frère
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 214--216
+\T1/cmr/m/n/10.95 l\TS1/cmr/m/n/10.95 '\T1/cmr/m/n/10.95 empêchait de crier son
+ mé-con-
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 212--221
  [] [] 
  []
 
 
-Overfull \hbox (1045.4222pt too wide) in alignment at lines 254--256
- [] [] 
- []
-
-
-Overfull \hbox (1045.4222pt too wide) in alignment at lines 256--258
- [] [] 
- []
-
-
-Overfull \hbox (1045.4222pt too wide) in alignment at lines 258--266
- [] [] 
- []
-
-
-Overfull \hbox (8.97159pt too wide) in paragraph at lines 269--269
+Overfull \hbox (8.97159pt too wide) in paragraph at lines 224--224
 []\T1/cmr/bx/n/14.4 Fokus kon-trastañ disk-ouezet gant urzh ar gerioù 
  []
 
 
-Overfull \hbox (748.7389pt too wide) in alignment at lines 274--276
- [] [] 
- []
-
-
-Overfull \hbox (748.7389pt too wide) in alignment at lines 276--278
- [] [] 
- []
-
-
-Overfull \hbox (748.7389pt too wide) in alignment at lines 278--285
+Overfull \hbox (24.0pt too wide) in alignment at lines 229--237
  [] [] 
  []
 
 )
 
-[77]
+[84]
 \openout2 = `chapters/StummoÃ¹_a_rener_faos.aux'.
 
  (./chapters/StummoÃ¹_a_rener_faos.tex
+Pennad 18.
 
-[78
+Overfull \hbox (24.0pt too wide) in alignment at lines 8--14
+ [] [] 
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 26--38
+ [] [] 
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 40--48
+ [] [] 
+ []
+
+
+
+[85
 
 
 
 
 ]
-Pennad 18.
-
-Overfull \hbox (251.64983pt too wide) in alignment at lines 8--10
+Overfull \hbox (24.0pt too wide) in alignment at lines 53--59
  [] [] 
  []
 
 
-Overfull \hbox (251.64983pt too wide) in alignment at lines 10--12
+Overfull \hbox (24.0pt too wide) in alignment at lines 61--68
  [] [] 
  []
 
 
-Overfull \hbox (251.64983pt too wide) in alignment at lines 12--17
- [] [] 
+Underfull \hbox (badness 1902) in paragraph at lines 73--76
+\T1/cmr/m/n/10.95 un je-une homme élancé, fin, noir
  []
 
 
-Overfull \hbox (1713.6725pt too wide) in alignment at lines 29--31
- [] [] 
- []
-
-
-Overfull \hbox (1713.6725pt too wide) in alignment at lines 31--33
- [] [] 
- []
-
-
-Overfull \hbox (1713.6725pt too wide) in alignment at lines 33--44
- [] [] 
- []
-
-
-Overfull \hbox (980.21193pt too wide) in alignment at lines 46--48
- [] [] 
- []
-
-
-Overfull \hbox (980.21193pt too wide) in alignment at lines 48--50
- [] [] 
- []
-
-
-Overfull \hbox (980.21193pt too wide) in alignment at lines 50--57
- [] [] 
- []
-
-
-Overfull \hbox (644.44102pt too wide) in alignment at lines 62--64
- [] [] 
- []
-
-
-Overfull \hbox (644.44102pt too wide) in alignment at lines 64--66
- [] [] 
- []
-
-
-Overfull \hbox (644.44102pt too wide) in alignment at lines 66--71
- [] [] 
- []
-
-
-Overfull \hbox (370.79257pt too wide) in alignment at lines 73--75
- [] [] 
- []
-
-
-Overfull \hbox (370.79257pt too wide) in alignment at lines 75--77
- [] [] 
- []
-
-
-Overfull \hbox (370.79257pt too wide) in alignment at lines 77--83
- [] [] 
- []
-
-
-
-[79]
-Overfull \hbox (496.77415pt too wide) in alignment at lines 85--87
- [] [] 
- []
-
-
-Overfull \hbox (496.77415pt too wide) in alignment at lines 87--89
- [] [] 
- []
-
-
-Overfull \hbox (496.77415pt too wide) in alignment at lines 89--95
+Overfull \hbox (24.0pt too wide) in alignment at lines 70--77
  [] [] 
  []
 
 )
 
-[80]
+[86]
 \openout2 = `chapters/Frazenn_gemplezh.aux'.
 
  (./chapters/Frazenn_gemplezh.tex
@@ -2843,144 +2042,94 @@ Overfull \hbox (5.60086pt too wide) in paragraph at lines 4--4
  []
 
 
-Overfull \hbox (1006.15837pt too wide) in alignment at lines 10--12
+Underfull \hbox (badness 1472) in paragraph at lines 12--14
+[]|\T1/cmr/m/n/10.95 Sur le con-ti-nent, des maisons hu-
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 10--18
  [] [] 
  []
 
 
-Overfull \hbox (1006.15837pt too wide) in alignment at lines 12--14
+Overfull \hbox (24.0pt too wide) in alignment at lines 20--25
  [] [] 
  []
 
 
-Overfull \hbox (1006.15837pt too wide) in alignment at lines 14--21
+Underfull \hbox (badness 1112) in paragraph at lines 29--29
+[]|\T1/cmr/m/n/10.95 Le fu-mier gras, de-hors, qui suinte
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 27--32
  [] [] 
  []
 
 
-Overfull \hbox (186.37384pt too wide) in alignment at lines 23--25
+Overfull \hbox (24.0pt too wide) in alignment at lines 38--46
  [] [] 
  []
 
-
-Overfull \hbox (186.37384pt too wide) in alignment at lines 25--27
- [] [] 
- []
-
-
-Overfull \hbox (186.37384pt too wide) in alignment at lines 27--31
- [] [] 
- []
-
-
-Overfull \hbox (117.21962pt too wide) in alignment at lines 33--35
- [] [] 
- []
-
-
-Overfull \hbox (117.21962pt too wide) in alignment at lines 35--37
- [] [] 
- []
-
-
-Overfull \hbox (117.21962pt too wide) in alignment at lines 37--41
- [] [] 
- []
-
-
-Overfull \hbox (713.2025pt too wide) in alignment at lines 47--49
- [] [] 
- []
-
-
-Overfull \hbox (713.2025pt too wide) in alignment at lines 49--51
- [] [] 
- []
-
-
-Overfull \hbox (713.2025pt too wide) in alignment at lines 51--58
- [] [] 
- []
-
-)
-
-[81
+[87
 
 
 
 
-]
+])
+
+[88]
 \openout2 = `chapters/Treuzkas_mennozh_an_dalch_e_brezhoneg.aux'.
 
  (./chapters/Treuzkas_mennozh_an_dalch_e_brezhoneg.tex
-
-[82
-
-
-
-
-]
 Pennad 20.
 
-Overfull \hbox (670.09354pt too wide) in alignment at lines 21--23
+Overfull \hbox (24.0pt too wide) in alignment at lines 11--16
  [] [] 
  []
 
 
-Overfull \hbox (670.09354pt too wide) in alignment at lines 23--25
+Overfull \hbox (24.0pt too wide) in alignment at lines 18--25
  [] [] 
  []
 
 
-Overfull \hbox (670.09354pt too wide) in alignment at lines 25--31
+Underfull \hbox (badness 1472) in paragraph at lines 32--34
+[]|\T1/cmr/m/n/10.95 Sur le con-ti-nent, des maisons hu-
+ []
+
+
+Overfull \hbox (24.0pt too wide) in alignment at lines 30--38
  [] [] 
  []
 
 
-Overfull \hbox (1006.15837pt too wide) in alignment at lines 36--38
+Overfull \hbox (24.0pt too wide) in alignment at lines 47--54
  [] [] 
  []
 
 
-Overfull \hbox (1006.15837pt too wide) in alignment at lines 38--40
- [] [] 
- []
+
+[89
 
 
-Overfull \hbox (1006.15837pt too wide) in alignment at lines 40--47
- [] [] 
- []
 
 
-Overfull \hbox (411.61989pt too wide) in alignment at lines 56--58
- [] [] 
- []
+])
 
-
-Overfull \hbox (411.61989pt too wide) in alignment at lines 58--60
- [] [] 
- []
-
-
-Overfull \hbox (411.61989pt too wide) in alignment at lines 60--66
- [] [] 
- []
-
-[83])
-
-[84]
+[90]
 \openout2 = `chapters/IndeksoÃ¹.aux'.
 
  (./chapters/IndeksoÃ¹.tex
 
-[85
+[91
 
 
 
 
 ]
 
-[86])
+[92])
 \openout2 = `chapters/Levrlennadurezh.aux'.
 
  (./chapters/Levrlennadurezh.tex
@@ -2993,14 +2142,14 @@ Overfull \hbox (5.7972pt too wide) in paragraph at lines 17--20
 
 
 
-[87
+[93
 
 
 
 
 ])
 
-[88] (./main.aux (./chapters/Digoradur.aux) (./chapters/TrugarekadennoÃ¹.aux)
+[94] (./main.aux (./chapters/Digoradur.aux) (./chapters/TrugarekadennoÃ¹.aux)
 (./chapters/Kinnig_ar_raktres.aux)
 (./chapters/PrÃ©sentation_du_projet_en_franÃ§ais.aux)
 (./chapters/Project_presentation_in_English.aux)
@@ -3030,13 +2179,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 34607164FD9EBAB9F110BC2ACDC40F16;26194.
  ) 
 Here is how much of TeX's memory you used:
- 11608 strings out of 473190
- 201633 string characters out of 5715800
- 597743 words of memory out of 5000000
+ 11614 strings out of 473190
+ 201675 string characters out of 5715800
+ 594619 words of memory out of 5000000
  34148 multiletter control sequences out of 15000+600000
  577432 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 90i,6n,93p,719b,590s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,6n,93p,719b,582s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbi1095.pfb>
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></
 usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbi1440.pfb></us
@@ -3051,10 +2200,10 @@ e/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/
 2025/texmf-dist/fonts/type1/public/cm-super/sfsl1095.pfb></usr/local/texlive/20
 25/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2025
 /texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on main.pdf (88 pages, 515509 bytes).
+Output written on main.pdf (94 pages, 518778 bytes).
 PDF statistics:
- 1570 PDF objects out of 1728 (max. 8388607)
- 1430 compressed objects within 15 object streams
- 387 named destinations out of 1000 (max. 500000)
+ 1596 PDF objects out of 1728 (max. 8388607)
+ 1450 compressed objects within 15 object streams
+ 393 named destinations out of 1000 (max. 500000)
  1065 words of extra memory for PDF output out of 10000 (max. 10000000)
 

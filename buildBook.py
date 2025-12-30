@@ -5,6 +5,7 @@ Fetches pages from a Miraheze wiki and converts them to LaTeX
 """
 
 import shutil
+import time
 import requests
 import re
 import os
@@ -182,12 +183,9 @@ def add_examples_to_content(content: str) -> str:
             },
         ).json()["parse"]["text"]["*"]
         # Get table in html
-        print(html_content)
         soup = BeautifulSoup(html_content, "html.parser")
         html_table = str(soup.find("table"))
-        print(html_table)
         example_content = pypandoc.convert_text(html_table, "mediawiki", format="html")
-        print(example_content)
         # Replace the template in the original content with the LaTeX example
         content = content.replace(f"{{{{:{example_title}}}}}", example_content)
     return content
@@ -228,11 +226,27 @@ def process_structure(
                         ".//mediawiki:text", namespace
                     ).text.strip()
                     wiki_content = add_examples_to_content(wiki_content)
-                    # TODO: process the templates for the examples here
                 else:
                     pass
-            chapter_content = pypandoc.convert_text(
-                wiki_content, "latex", format="mediawiki"
+            chapter_content = (
+                str(
+                    pypandoc.convert_text(
+                        wiki_content,
+                        "latex",
+                        format="mediawiki",
+                    )
+                )
+                .replace(
+                    "\\begin{longtable}[]{@{}ll@{}}",
+                    "\\begin{longtable}[]{p{0.5\\textwidth}p{0.5\\textwidth}}",
+                )
+                .replace(
+                    """\\toprule\\noalign{}
+\\endhead
+\\bottomrule\\noalign{}
+\\endlastfoot""",
+                    "",
+                )
             )
 
         with open(filepath, "w", encoding="utf-8") as f:
@@ -259,6 +273,8 @@ def main() -> None:
         else with empty chapter when page is missing from XML
     Remove the main.pdf file if exists and rebuild with the `pdflatex -interaction=nonstopmode main.tex` command (run twice to build the ToC properly)
     """
+    # Add a time stamp to the build
+    start_time = time.time()
     print("Starting build process...")
     print("Setting up directories...")
     if not DATA_DIR.exists():
@@ -311,6 +327,8 @@ def main() -> None:
         )
 
     print(f"3.3 Main file created successfully!")
+    end_time = time.time()
+    print("This took %.2f seconds" % (end_time - start_time))
 
 
 main()
