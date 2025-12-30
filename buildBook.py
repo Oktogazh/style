@@ -77,14 +77,6 @@ def download_xml() -> Optional[ET.Element]:
     ).json()["query"]["tokens"]["csrftoken"]
     print("1.1.4 CSRF token obtained.")
 
-    params = {
-        "action": "query",
-        "format": "xml",
-        "prop": "revisions",
-        "titles": "BookTitle",  # Replace with actual book title
-        "rvprop": "content",
-    }
-
     print("1.2 Downloading XML content...")
     url = f"{WIKI_BASE_URL}/wiki/Dibar:Ezporzhiañ"
     r = session.post(
@@ -172,6 +164,35 @@ def buildToC(root: ET.Element) -> List[Dict[str, Any]]:
     return parsed_ToC
 
 
+def add_examples_to_content(content: str) -> str:
+    """Process wikitext, find template transclusions and turns them into actual examples"""
+    # create a regex pattern to find all the {{:<Example title>}} segments
+    pattern = re.compile(r"\{\{:(.+?)\}\}")
+    matches = pattern.findall(content)
+    for match in matches:
+        example_title = match.strip()
+        print(f"    Downloading example: {example_title}")
+        # Fetch the example page content
+        html_content = session.get(
+            API_URL,
+            params={
+                "action": "parse",
+                "format": "json",
+                "page": example_title,
+            },
+        ).json()["parse"]["text"]["*"]
+        # Get table in html
+        print(html_content)
+        soup = BeautifulSoup(html_content, "html.parser")
+        html_table = str(soup.find("table"))
+        print(html_table)
+        example_content = pypandoc.convert_text(html_table, "mediawiki", format="html")
+        print(example_content)
+        # Replace the template in the original content with the LaTeX example
+        content = content.replace(f"{{{{:{example_title}}}}}", example_content)
+    return content
+
+
 def process_structure(
     file: TextIOWrapper, structure: List[Dict[str, Any]], root: ET.Element
 ) -> None:
@@ -206,6 +227,8 @@ def process_structure(
                     wiki_content = page.find(
                         ".//mediawiki:text", namespace
                     ).text.strip()
+                    wiki_content = add_examples_to_content(wiki_content)
+                    # TODO: process the templates for the examples here
                 else:
                     pass
             chapter_content = pypandoc.convert_text(
@@ -234,7 +257,7 @@ def main() -> None:
         Use the title tag from the XML to find chapter titles
             Create a custom example generator to replace the template in wikitext
         else with empty chapter when page is missing from XML
-    Remove the main.pdf file if exists and rebuild with the `pdflatex -interaction=nonstopmode main.tex` command
+    Remove the main.pdf file if exists and rebuild with the `pdflatex -interaction=nonstopmode main.tex` command (run twice to build the ToC properly)
     """
     print("Starting build process...")
     print("Setting up directories...")
