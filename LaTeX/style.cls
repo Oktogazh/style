@@ -18,3 +18,12 @@
 \renewcommand{\thepart}{\Alph{part}}
 
 \makeatother
+\def\tightlist{}
+
+% Todo:
+% - fix indentation after first paragraph of section
+% - remove the links
+% - remove category tags (url{...})
+% - style the parts and chapters
+% - style the bibliography
+% - find bugs
