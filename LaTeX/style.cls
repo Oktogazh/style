@@ -13,7 +13,7 @@
 \usepackage{booktabs}
 
 % Check for an update of the package
-\usepackage[breton]{babel}
+\usepackage[provide=*,breton]{babel}
 
 \renewcommand{\thepart}{\Alph{part}}
 
@@ -23,7 +23,6 @@
 % Todo:
 % - fix indentation after first paragraph of section
 % - remove the links
-% - remove category tags (url{...})
 % - style the parts and chapters
 % - style the bibliography
 % - find bugs
