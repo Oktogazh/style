@@ -17,12 +17,15 @@
 
 \renewcommand{\thepart}{\Alph{part}}
 
+% Remove all paragraph indentation
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+
 \makeatother
 \def\tightlist{}
 
 % Todo:
-% - fix indentation after first paragraph of section
-% - remove the links
+% - remove category tags (Rummad: ...)
 % - style the parts and chapters
 % - style the bibliography
 % - find bugs
