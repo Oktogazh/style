@@ -236,11 +236,11 @@ def process_structure(
                         format="mediawiki",
                     )
                 )
-                .replace(
+                .replace(  # make tables fit the page width
                     "\\begin{longtable}[]{@{}ll@{}}",
                     "\\begin{longtable}[]{|p{0.45\\textwidth}|p{0.45\\textwidth}}",
                 )
-                .replace(
+                .replace(  # remove unnecessary table rules
                     """\\toprule\\noalign{}
 \\endhead
 \\bottomrule\\noalign{}
@@ -248,10 +248,15 @@ def process_structure(
                     "",
                 )
             )
-        # Remove links from the wikitext
+        # Remove new lines if they are not doubled (to make the tex files readable)
         chapter_content = re.sub(r"(?<!\n)\n(?!\n)", r" ", chapter_content)
+        # Remove links from the wikitext
         chapter_content = re.sub(r"\\href\{.+?\}\{(.+?)\}", r"\1", chapter_content)
         chapter_content = re.sub(r"\\url\{(.+?)\}", r"\1", chapter_content)
+        # Remove category tags from the wiki
+        chapter_content = re.sub(
+            r"^Rummad: .+$", "", chapter_content, flags=re.MULTILINE
+        )
 
         with open(filepath, "w", encoding="utf-8") as f:
             category = ["part", "chapter", "chapter"]
