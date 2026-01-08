@@ -255,7 +255,7 @@ def process_structure(
         chapter_content = re.sub(r"\\url\{(.+?)\}", r"\1", chapter_content)
         # Remove category tags from the wiki
         chapter_content = re.sub(
-            r"^Rummad: .+$", "", chapter_content, flags=re.MULTILINE
+            r"^(Rummad)|(Category):.+$", "", chapter_content, flags=re.MULTILINE
         )
 
         with open(filepath, "w", encoding="utf-8") as f:

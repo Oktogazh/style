@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.2)  7 JAN 2026 15:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.2)  8 JAN 2026 11:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -24,7 +24,7 @@ File: bk11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
 )
-Document Class: style 2025/12/21 0.1.0
+Document Class: style 2025/01/08 0.1.0
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks17
@@ -223,6 +223,18 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@lastruleclass=\count304
 \@thisrulewidth=\dimen168
 )
+(/usr/local/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box58
+\beforetitleunit=\skip56
+\aftertitleunit=\skip57
+\ttl@plus=\dimen169
+\ttl@minus=\dimen170
+\ttl@toksa=\toks21
+\titlewidth=\dimen171
+\titlewidthlast=\dimen172
+\titlewidthfirst=\dimen173
+)
 (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2025/12/30 v25.18 The multilingual framework for LuaLaTeX, pdfLa
 TeX and XeLaTeX
@@ -241,7 +253,7 @@ LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?)
 on input line 2076.
 LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
 on input line 2101.
-\U@D=\dimen169
+\U@D=\dimen174
 \l@unhyphenated=\language90
 
 (/usr/local/texlive/2025/texmf-dist/tex/generic/babel/txtbabel.def)
@@ -320,16 +332,16 @@ Package hyperref Info: Link coloring OFF on input line 8.
 (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count308
-\scratchdimen=\dimen170
-\scratchbox=\box58
+\scratchdimen=\dimen175
+\scratchbox=\box59
 \nofMPsegments=\count309
 \nofMParguments=\count310
-\everyMPshowfont=\toks21
+\everyMPshowfont=\toks22
 \MPscratchCnt=\count311
-\MPscratchDim=\dimen171
+\MPscratchDim=\dimen176
 \MPnumerator=\count312
 \makeMPintoPDFobject=\count313
-\everyMPtoPDFconversion=\toks22
+\everyMPtoPDFconversion=\toks23
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
@@ -359,13 +371,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
-[2
-
-] (./main.toc
+(./main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 5.
- [3] [4{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts
-1.enc}]
+ [2
+
+] [3{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.e
+nc}]
 Overfull \hbox (2.00676pt too wide) in paragraph at lines 60--60
  [][] [][]\T1/cmr/m/n/10.95 Gerioù-mell gallek troet gant doa-ree-rien perc\TS1
 /cmr/m/n/10.95 '\T1/cmr/m/n/10.95 hennañ e brezhoneg[] []  
@@ -377,7 +389,7 @@ Overfull \hbox (4.64896pt too wide) in paragraph at lines 61--61
 /cmr/m/n/10.95 '\T1/cmr/m/n/10.95 hennañ e brezhoneg[] []  
  []
 
-[5]
+[4]
 Overfull \hbox (3.71129pt too wide) in paragraph at lines 79--79
  [][] [][]\T1/cmr/m/n/10.95 Doare-divizout im-pli-jet e brezhoneg evit treiñ ur
  stumm 
@@ -395,29 +407,30 @@ Overfull \hbox (10.56198pt too wide) in paragraph at lines 94--94
 cmr/m/n/10.95 '\T1/cmr/m/n/10.95 ar stumm 
  []
 
-[6] [7])
+[5] [6])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [8]
+ [7] [8
+
+]
 \openout2 = `chapters/Digoradur.aux'.
 
- (./chapters/Digoradur.tex [9
+ (./chapters/Digoradur.tex) [9
 
 
-
-] [10])
+]
 \openout2 = `chapters/TrugarekadennoÃ¹.aux'.
 
 
 (./chapters/TrugarekadennoÃ¹.tex
 \bbl@ensure@breton {Pennad} 1.
-[11
+[10
 
 
 
 
-]) [12]
+]) [11]
 \openout2 = `chapters/Kinnig_ar_raktres.aux'.
 
  (./chapters/Kinnig_ar_raktres.tex
@@ -436,12 +449,12 @@ Overfull \hbox (0.12395pt too wide) in paragraph at lines 5--6
 di-gezh e brezhoneg
  []
 
-[13
+[12
 
 
 
 
-]) [14]
+]) [13]
 \openout2 = `chapters/PrÃ©sentation_du_projet_en_franÃ§ais.aux'.
 
  (./chapters/PrÃ©sentation_du_projet_en_franÃ§ais.tex
@@ -452,73 +465,61 @@ Overfull \hbox (8.779pt too wide) in paragraph at lines 9--10
 mr/m/n/10.95 UNESCO (Mose-ley 2010, 24-25). Ma recherche
  []
 
-[15
+[14
 
 
 
 
-] [16]) [17]
+] [15]) [16]
 \openout2 = `chapters/Project_presentation_in_English.aux'.
 
- (./chapters/Project_presentation_in_English.tex [18
+ (./chapters/Project_presentation_in_English.tex
+\bbl@ensure@breton {Pennad} 4.
+[17
 
 
 
 
 ]
-\bbl@ensure@breton {Pennad} 4.
-[19]
 Overfull \hbox (3.04057pt too wide) in paragraph at lines 33--34
 []\T1/cmr/m/n/10.95 This glos-sary will in-clude trilin-gual trans-la-tions of 
 each term (En-glish, French,
  []
 
-[20]) [21]
+[18]) [19]
 \openout2 = `chapters/Studi_ar_stil_dre_geÃ±veriaÃ±_ha_meizadoÃ¹_diazez_an_droi
 digezh.aux'.
 
 
 (./chapters/Studi_ar_stil_dre_geÃ±veriaÃ±_ha_meizadoÃ¹_diazez_an_droidigezh.tex
-[22
-
-
-
-
-]
 \bbl@ensure@breton {Pennad} 5.
-[23]
+[20
+
+
+
+
+] [21]
+Underfull \hbox (badness 2126) in paragraph at lines 39--39
+\T1/cmr/m/n/10.95 s\TS1/cmr/m/n/10.95 '\T1/cmr/m/n/10.95 efforçaient d\TS1/cmr/
+m/n/10.95 '\T1/cmr/m/n/10.95 écouter Dieu, de
+ []
+
+
+Overfull \hbox (109.07043pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10.95 22 \T1/cmr/m/sl/10.95 PENNAD 5.  STUDI AR STIL DRE GEÑVERIAÑ 
+HA MEIZADOÙ DIAZEZ AN DROIDIGEZH
+ []
+
+[22] [23])
 Overfull \hbox (109.07043pt too wide) has occurred while \output is active
 \T1/cmr/m/n/10.95 24 \T1/cmr/m/sl/10.95 PENNAD 5.  STUDI AR STIL DRE GEÑVERIAÑ 
 HA MEIZADOÙ DIAZEZ AN DROIDIGEZH
  []
 
 [24]
-Underfull \hbox (badness 2126) in paragraph at lines 39--39
-\T1/cmr/m/n/10.95 s\TS1/cmr/m/n/10.95 '\T1/cmr/m/n/10.95 efforçaient d\TS1/cmr/
-m/n/10.95 '\T1/cmr/m/n/10.95 écouter Dieu, de
- []
-
-[25]
-Overfull \hbox (109.07043pt too wide) has occurred while \output is active
-\T1/cmr/m/n/10.95 26 \T1/cmr/m/sl/10.95 PENNAD 5.  STUDI AR STIL DRE GEÑVERIAÑ 
-HA MEIZADOÙ DIAZEZ AN DROIDIGEZH
- []
-
-[26]) [27]
 \openout2 = `chapters/OstilhoÃ¹_stil_teknikoÃ¹_treiÃ±.aux'.
 
  (./chapters/OstilhoÃ¹_stil_teknikoÃ¹_treiÃ±.tex
-Overfull \hbox (109.07043pt too wide) has occurred while \output is active
-\T1/cmr/m/n/10.95 28 \T1/cmr/m/sl/10.95 PENNAD 5.  STUDI AR STIL DRE GEÑVERIAÑ 
-HA MEIZADOÙ DIAZEZ AN DROIDIGEZH
- []
-
-[28
-
-
-
-
-]
 \bbl@ensure@breton {Pennad} 6.
 
 Overfull \hbox (104.33313pt too wide) in alignment at lines 7--7
@@ -540,7 +541,12 @@ Overfull \hbox (104.33313pt too wide) in alignment at lines 7--7
  [] [] [] 
  []
 
-[29] [30] [31]
+[25
+
+
+
+
+] [26] [27]
 Underfull \hbox (badness 1286) in paragraph at lines 69--69
 \T1/cmr/m/n/10.95 a veze klevet o skeiñ ouzh ar
  []
@@ -550,7 +556,7 @@ Underfull \hbox (badness 1859) in paragraph at lines 79--79
 []|\T1/cmr/m/n/10.95 Ar saout o re-dek a ra dezho
  []
 
-[32]
+[28]
 Overfull \hbox (12.4769pt too wide) in paragraph at lines 87--88
 \T1/cmr/m/n/10.95 dreuzkas troi-en-noù eus ar yezh fraze-olo-gel, evel ar c\TS1
 /cmr/m/n/10.95 '\T1/cmr/m/n/10.95 hrennlavaroù, ar c\TS1/cmr/m/n/10.95 '\T1/cmr
@@ -567,7 +573,7 @@ Underfull \hbox (badness 1540) in paragraph at lines 99--99
 \T1/cmr/m/n/10.95 e penn an ene-zourien da dru-
  []
 
-[33]
+[29]
 Underfull \hbox (badness 1436) in paragraph at lines 111--111
 \T1/cmr/m/n/10.95 ti Gwil-herm ha krak-ha-berr e
  []
@@ -583,12 +589,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 133--133
 ar
  []
 
-[34]
+[30]
 Underfull \hbox (badness 2790) in paragraph at lines 155--155
 \T1/cmr/m/n/10.95 ses ouailles qui fumerait dans
  []
 
-ignored error: Infinite glue shrinkage found in box being split [35]
+ignored error: Infinite glue shrinkage found in box being split [31]
 Underfull \hbox (badness 2334) in paragraph at lines 183--183
 \T1/cmr/m/n/10.95 Qu\TS1/cmr/m/n/10.95 '\T1/cmr/m/n/10.95 au terme d\TS1/cmr/m/
 n/10.95 '\T1/cmr/m/n/10.95 une longue vie
@@ -599,27 +605,26 @@ Underfull \hbox (badness 1466) in paragraph at lines 183--183
 \T1/cmr/m/n/10.95 ils étaient heureux de voir un
  []
 
-[36]
+[32]
 Overfull \hbox (6.23276pt too wide) in paragraph at lines 193--194
 \T1/cmr/m/n/10.95 Ar bazenn gen-tañ da as-tenn ar pennad-mañ a vefe kin-nig os-
 til-hoù stil disheñvel
  []
 
-) [37]
+) [33]
 \openout2 = `chapters/RummadoÃ¹_gerioÃ¹.aux'.
 
- (./chapters/RummadoÃ¹_gerioÃ¹.tex [38
+ (./chapters/RummadoÃ¹_gerioÃ¹.tex [34
 
 
 
 
-] [39] [40])
+]) [35]
 \openout2 = `chapters/AraogennoÃ¹.aux'.
 
-
-(./chapters/AraogennoÃ¹.tex
+ (./chapters/AraogennoÃ¹.tex
 \bbl@ensure@breton {Pennad} 7.
-[41
+[36
 
 
 
@@ -641,7 +646,7 @@ Underfull \hbox (badness 1681) in paragraph at lines 29--29
 []|\T1/cmr/m/n/10.95 Le soleil dé-cli-nant ac-cu-sait les
  []
 
-[42]
+[37]
 Underfull \hbox (badness 4013) in paragraph at lines 65--65
 []|\T1/cmr/m/n/10.95 Ils dé-ti-en-nent une sci-ence ef-
  []
@@ -657,7 +662,7 @@ Underfull \hbox (badness 4205) in paragraph at lines 79--79
  adalek
  []
 
-[43]
+[38]
 Underfull \hbox (badness 4048) in paragraph at lines 91--91
 []|\T1/cmr/m/n/10.95 War a lavar ar ve-mor e oa
  []
@@ -673,15 +678,10 @@ Overfull \hbox (4.60446pt too wide) in paragraph at lines 97--98
 a vezañ un islavarenn-
  []
 
-[44]) [45]
+[39]) [40]
 \openout2 = `chapters/AnvioÃ¹_gwan.aux'.
 
- (./chapters/AnvioÃ¹_gwan.tex [46
-
-
-
-
-]
+ (./chapters/AnvioÃ¹_gwan.tex
 \bbl@ensure@breton {Pennad} 8.
 
 Underfull \hbox (badness 2359) in paragraph at lines 13--13
@@ -695,10 +695,15 @@ Overfull \hbox (3.24112pt too wide) in paragraph at lines 17--17
 ñ evel \T1/cmr/m/it/10.95 hanter\T1/cmr/m/n/10.95 ; 
  []
 
-[47]
+[41
+
+
+
+
+]
 Overfull \hbox (33.7728pt too wide) in paragraph at lines 25--25
-[]\T1/cmr/bx/n/14.4 Eztaoler ur c\TS1/cmr/bx/n/14.4 '\T1/cmr/bx/n/14.4 heñveria
-dur gant anvioù-gwan-doareañ 
+|[]\T1/cmr/bx/n/14.4 Eztaoler ur c\TS1/cmr/bx/n/14.4 '\T1/cmr/bx/n/14.4 heñveri
+adur gant anvioù-gwan-doareañ| 
  []
 
 
@@ -708,31 +713,31 @@ Overfull \hbox (9.92761pt too wide) in paragraph at lines 27--28
 0.95 heñveriadur,
  []
 
-[48]
+[42]
 Underfull \hbox (badness 2245) in paragraph at lines 43--43
 []|\T1/cmr/m/n/10.95 Ar bravañ zo e vo diluger-net
  []
 
-) [49]
+) [43]
 \openout2 = `chapters/Doareerien_perchennaÃ±.aux'.
 
- (./chapters/Doareerien_perchennaÃ±.tex [50
-
-
-
-
-]
+ (./chapters/Doareerien_perchennaÃ±.tex
 \bbl@ensure@breton {Pennad} 9.
 
 Overfull \hbox (37.07922pt too wide) in paragraph at lines 13--13
-[]\T1/cmr/bx/n/14.4 Gerioù-mell gallek troet gant doa-ree-rien perc\TS1/cmr/bx/
-n/14.4 '\T1/cmr/bx/n/14.4 hennañ
+|[]\T1/cmr/bx/n/14.4 Gerioù-mell gallek troet gant doa-ree-rien perc\TS1/cmr/bx
+/n/14.4 '\T1/cmr/bx/n/14.4 hennañ
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [51]
+ [44
+
+
+
+
+]
 Overfull \hbox (0.49428pt too wide) in paragraph at lines 39--40
 []\T1/cmr/m/n/10.95 Muioc\TS1/cmr/m/n/10.95 '\T1/cmr/m/n/10.95 h a sk-oue-rioù 
 a ranker kavout evit re-sisaat ar pa-trom im-pli-jet aliesoc\TS1/cmr/m/n/10.95 
@@ -741,8 +746,8 @@ a ranker kavout evit re-sisaat ar pa-trom im-pli-jet aliesoc\TS1/cmr/m/n/10.95
 
 
 Overfull \hbox (40.39346pt too wide) in paragraph at lines 41--41
-[]\T1/cmr/bx/n/14.4 Anvioù noaz gallek troet gant doa-ree-rien perc\TS1/cmr/bx/
-n/14.4 '\T1/cmr/bx/n/14.4 hennañ
+|[]\T1/cmr/bx/n/14.4 Anvioù noaz gallek troet gant doa-ree-rien perc\TS1/cmr/bx
+/n/14.4 '\T1/cmr/bx/n/14.4 hennañ
  []
 
 
@@ -763,31 +768,31 @@ Underfull \hbox (badness 4872) in paragraph at lines 47--47
 0.95 '\T1/cmr/m/n/10.95 het en aer ar ye-
  []
 
-[52]
+
+Overfull \hbox (121.47534pt too wide) has occurred while \output is active
+\T1/cmr/m/sl/10.95 9.2.  GERIOÙ-MELL GALLEK TROET GANT DOAREERIEN PERC\TS1/cmr/
+m/sl/10.95 '\T1/cmr/m/sl/10.95 HENNAÑ E BREZHONEG \T1/cmr/m/n/10.95 45
+ []
+
+[45]
 Underfull \hbox (badness 5519) in paragraph at lines 61--61
 \T1/cmr/m/n/10.95 les gens se réu-nis-saient dans
  []
 
-)
-Overfull \hbox (120.94154pt too wide) has occurred while \output is active
-\T1/cmr/m/sl/10.95 9.3.  ANVIOÙ NOAZ GALLEK TROET GANT DOAREERIEN PERC\TS1/cmr/
-m/sl/10.95 '\T1/cmr/m/sl/10.95 HENNAÑ E BREZHONEG \T1/cmr/m/n/10.95 53
- []
-
-[53]
+) [46]
 \openout2 = `chapters/MorfemoÃ¹.aux'.
 
- (./chapters/MorfemoÃ¹.tex [54
+ (./chapters/MorfemoÃ¹.tex) [47
 
 
 
 
-] [55] [56])
+]
 \openout2 = `chapters/LostgerioÃ¹.aux'.
 
  (./chapters/LostgerioÃ¹.tex
 \bbl@ensure@breton {Pennad} 10.
-[57
+[48
 
 
 
@@ -804,20 +809,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--43
  ur
  []
 
-[58]
+[49]
 Underfull \hbox (badness 1184) in paragraph at lines 71--71
 \T1/cmr/m/n/10.95 Dieu les en-tourait, belle chose,
  []
 
-) [59]
+) [50]
 \openout2 = `chapters/StummoÃ¹_verbel_amzer_doare_tu_stumm.aux'.
 
- (./chapters/StummoÃ¹_verbel_amzer_doare_tu_stumm.tex [60
+ (./chapters/StummoÃ¹_verbel_amzer_doare_tu_stumm.tex) [51
 
 
 
 
-] [61] [62])
+]
 \openout2 = `chapters/Amzer.aux'.
 
 
@@ -834,7 +839,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--9
 
  []
 
-[63
+[52
 
 
 
@@ -849,19 +854,14 @@ Underfull \hbox (badness 2418) in paragraph at lines 47--47
 \T1/cmr/m/n/10.95 vezañ bamet gan-tañ, e fal-laas
  []
 
-[64]) [65]
+[53]) [54]
 \openout2 = `chapters/Doare.aux'.
 
- (./chapters/Doare.tex [66
-
-
-
-
-]
+ (./chapters/Doare.tex
 \bbl@ensure@breton {Pennad} 12.
 
 Overfull \hbox (11.94232pt too wide) in paragraph at lines 5--5
-[]\T1/cmr/bx/n/12 Doare-divizout im-pli-jet e brezhoneg evit treiñ ur stumm
+|[]\T1/cmr/bx/n/12 Doare-divizout im-pli-jet e brezhoneg evit treiñ ur stumm
  []
 
 
@@ -869,7 +869,12 @@ Underfull \hbox (badness 3229) in paragraph at lines 21--21
 \T1/cmr/m/n/10.95 fond du ciel, aient éclairé ce
  []
 
-[67]
+[55
+
+
+
+
+]
 Underfull \hbox (badness 1097) in paragraph at lines 27--27
 []|\T1/cmr/m/n/10.95 En enez edo Doue a-raok d\TS1/cmr/m/n/10.95 '\T1/cmr/m/n/1
 0.95 ar
@@ -886,17 +891,17 @@ Underfull \hbox (badness 7540) in paragraph at lines 49--49
 []|\T1/cmr/m/n/10.95 Quelle aubaine ! disait-on à
  []
 
-[68]) [69]
+[56]) [57]
 \openout2 = `chapters/Tu_gra_tu_gouzaÃ±v.aux'.
 
- (./chapters/Tu_gra_tu_gouzaÃ±v.tex [70
+ (./chapters/Tu_gra_tu_gouzaÃ±v.tex
+\bbl@ensure@breton {Pennad} 13.
+[58
 
 
 
 
 ]
-\bbl@ensure@breton {Pennad} 13.
-[71]
 Underfull \hbox (badness 7326) in paragraph at lines 35--35
 \T1/cmr/m/n/10.95 tude morale ont détruit son
  []
@@ -906,23 +911,25 @@ Underfull \hbox (badness 2165) in paragraph at lines 35--35
 \T1/cmr/m/n/10.95 en-treprise, en poursuivrait-il le
  []
 
-) [72]
+)
+Overfull \hbox (426.90616pt too wide) has occurred while \output is active
+\T1/cmr/m/sl/10.95 13.4.  TU-GOUZAÑV IMPLIJET EN DROIDIGEZH E-LEC\TS1/cmr/m/sl/
+10.95 '\T1/cmr/m/sl/10.95 H TU-GRA EVIT TREMEN HEBIOU DISPLEGAÑ AR VERB KAOUT D
+\TS1/cmr/m/sl/10.95 '\T1/cmr/m/sl/10.95 AN TREDE GOUR UNAN \T1/cmr/m/n/10.95 59
+
+ []
+
+[59]
 \openout2 = `chapters/Stumm_kadarn_nach_goulennata_estlammaÃ±.aux'.
 
  (./chapters/Stumm_kadarn_nach_goulennata_estlammaÃ±.tex
 \bbl@ensure@breton {Pennad} 14.
-[73
+[60
 
 
 
 
-])
-Overfull \hbox (15.12079pt too wide) has occurred while \output is active
-\T1/cmr/m/n/10.95 74 \T1/cmr/m/sl/10.95 PENNAD 14.  STUMM KADARN, NAC'H, GOULEN
-NATA, ESTLAMMAÑ
- []
-
-[74]
+]) [61]
 \openout2 = `chapters/StummoÃ¹_verbel_all.aux'.
 
  (./chapters/StummoÃ¹_verbel_all.tex
@@ -972,29 +979,29 @@ Underfull \hbox (badness 2495) in paragraph at lines 21--21
 \T1/cmr/m/n/10.95 moan poen-taouet gant kaozioù
  []
 
-[75
+[62
 
 
 
 
-]) [76]
+]) [63]
 \openout2 = `chapters/KreÃ±vder_ar_ster.aux'.
 
- (./chapters/KreÃ±vder_ar_ster.tex [77
+ (./chapters/KreÃ±vder_ar_ster.tex [64
 
 
 
 
-] [78])
+]) [65]
 \openout2 = `chapters/VerboÃ¹_ha_stummoÃ¹_damskoazellaÃ±_e_brezhoneg.aux'.
 
 
 (./chapters/VerboÃ¹_ha_stummoÃ¹_damskoazellaÃ±_e_brezhoneg.tex
 \bbl@ensure@breton {Pennad} 16.
 
-Underfull \vbox (badness 6842) has occurred while \output is active []
+Underfull \vbox (badness 6461) has occurred while \output is active []
 
- [79
+ [66
 
 
 
@@ -1004,13 +1011,7 @@ Underfull \hbox (badness 3229) in paragraph at lines 43--43
 \T1/cmr/m/n/10.95 fond du ciel, aient éclairé ce
  []
 
-
-Overfull \hbox (33.5587pt too wide) has occurred while \output is active
-\T1/cmr/m/n/10.95 80 \T1/cmr/m/sl/10.95 PENNAD 16.  VERBOÙ HA STUMMOÙ DAMSKOAZE
-LLAÑ E BREZHONEG
- []
-
-[80]
+[67]
 Underfull \hbox (badness 1558) in paragraph at lines 53--53
 []|\T1/cmr/m/n/10.95 Avec cela, par-fois, les journées
  []
@@ -1055,7 +1056,13 @@ Underfull \hbox (badness 3758) in paragraph at lines 77--77
 \T1/cmr/m/n/10.95 enez un di-s-ail-hadenn da vare
  []
 
-[81]
+
+Overfull \hbox (33.5587pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10.95 68 \T1/cmr/m/sl/10.95 PENNAD 16.  VERBOÙ HA STUMMOÙ DAMSKOAZE
+LLAÑ E BREZHONEG
+ []
+
+[68]
 Underfull \hbox (badness 3343) in paragraph at lines 93--93
 []|\T1/cmr/m/n/10.95 Rankout a rafe Jul mont da
  []
@@ -1075,13 +1082,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 97--97
 \T1/cmr/m/n/10.95 trait avec une ques-tion du
  []
 
-
+[69]
 Overfull \hbox (33.5587pt too wide) has occurred while \output is active
-\T1/cmr/m/n/10.95 82 \T1/cmr/m/sl/10.95 PENNAD 16.  VERBOÙ HA STUMMOÙ DAMSKOAZE
+\T1/cmr/m/n/10.95 70 \T1/cmr/m/sl/10.95 PENNAD 16.  VERBOÙ HA STUMMOÙ DAMSKOAZE
 LLAÑ E BREZHONEG
  []
 
-[82] [83]
+[70]
 Underfull \hbox (badness 10000) in paragraph at lines 129--129
 []|\T1/cmr/m/n/10.95 Tu dois bien exé-cuter cette
  []
@@ -1106,13 +1113,7 @@ Underfull \hbox (badness 2165) in paragraph at lines 145--145
 \T1/cmr/m/n/10.95 s'apprêtaient à veiller quelques
  []
 
-
-Overfull \hbox (33.5587pt too wide) has occurred while \output is active
-\T1/cmr/m/n/10.95 84 \T1/cmr/m/sl/10.95 PENNAD 16.  VERBOÙ HA STUMMOÙ DAMSKOAZE
-LLAÑ E BREZHONEG
- []
-
-[84]
+[71]
 Underfull \hbox (badness 6808) in paragraph at lines 173--173
 []|\T1/cmr/m/n/10.95 Ce n\TS1/cmr/m/n/10.95 '\T1/cmr/m/n/10.95 étaient pas des 
 prêtres
@@ -1124,26 +1125,32 @@ Underfull \hbox (badness 1033) in paragraph at lines 173--173
  dav kas
  []
 
-[85]
+
+Overfull \hbox (33.5587pt too wide) has occurred while \output is active
+\T1/cmr/m/n/10.95 72 \T1/cmr/m/sl/10.95 PENNAD 16.  VERBOÙ HA STUMMOÙ DAMSKOAZE
+LLAÑ E BREZHONEG
+ []
+
+[72]
 Underfull \hbox (badness 1270) in paragraph at lines 197--197
 \T1/cmr/m/n/10.95 qui se changeaient en sac-cades
  []
 
-)
+) [73]
+\openout2 = `chapters/FrammoÃ¹_sintaktek.aux'.
+
+ (./chapters/FrammoÃ¹_sintaktek.tex
 Overfull \hbox (33.5587pt too wide) has occurred while \output is active
-\T1/cmr/m/n/10.95 86 \T1/cmr/m/sl/10.95 PENNAD 16.  VERBOÙ HA STUMMOÙ DAMSKOAZE
+\T1/cmr/m/n/10.95 74 \T1/cmr/m/sl/10.95 PENNAD 16.  VERBOÙ HA STUMMOÙ DAMSKOAZE
 LLAÑ E BREZHONEG
  []
 
-[86]
-\openout2 = `chapters/FrammoÃ¹_sintaktek.aux'.
-
- (./chapters/FrammoÃ¹_sintaktek.tex [87
+[74
 
 
 
 
-] [88])
+]) [75]
 \openout2 = `chapters/Ar_fokus.aux'.
 
  (./chapters/Ar_fokus.tex
@@ -1158,7 +1165,7 @@ Underfull \hbox (badness 1466) in paragraph at lines 25--25
 \T1/cmr/m/n/10.95 soñj gant an ene-zourien e vez
  []
 
-[89
+[76
 
 
 
@@ -1192,7 +1199,7 @@ Underfull \hbox (badness 1406) in paragraph at lines 33--33
 hoarvezas
  []
 
-[90]
+[77]
 Underfull \hbox (badness 6808) in paragraph at lines 53--53
 []|\T1/cmr/m/n/10.95 Ce n\TS1/cmr/m/n/10.95 '\T1/cmr/m/n/10.95 étaient pas des 
 prêtres
@@ -1221,7 +1228,7 @@ Underfull \hbox (badness 3942) in paragraph at lines 77--77
 []|\T1/cmr/m/n/10.95 Kentañ gwech en doa Tomaz
  []
 
-[91]
+[78]
 Underfull \hbox (badness 4013) in paragraph at lines 85--85
 []|\T1/cmr/m/n/10.95 Ils dé-ti-en-nent une sci-ence ef-
  []
@@ -1247,9 +1254,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--95
  frère
  []
 
-[92]
+[79]
 Overfull \hbox (8.97159pt too wide) in paragraph at lines 97--97
-[]\T1/cmr/bx/n/14.4 Fokus kon-trastañ disk-ouezet gant urzh ar gerioù 
+|[]\T1/cmr/bx/n/14.4 Fokus kon-trastañ disk-ouezet gant urzh ar gerioù| 
  []
 
 
@@ -1257,21 +1264,10 @@ Underfull \hbox (badness 3895) in paragraph at lines 103--103
 \T1/cmr/m/n/10.95 le paroissien pos-sède sa ruse:
  []
 
-)
-Overfull \hbox (6.14035pt too wide) has occurred while \output is active
-\T1/cmr/m/sl/10.95 17.7.  FOKUS KONTRASTAÑ DISKOUEZET GANT URZH AR GERIOÙ \T1/c
-mr/m/n/10.95 93
- []
-
-[93]
+) [80]
 \openout2 = `chapters/StummoÃ¹_a_rener_faos.aux'.
 
- (./chapters/StummoÃ¹_a_rener_faos.tex [94
-
-
-
-
-]
+ (./chapters/StummoÃ¹_a_rener_faos.tex
 \bbl@ensure@breton {Pennad} 18.
 
 Underfull \hbox (badness 1028) in paragraph at lines 19--19
@@ -1284,7 +1280,12 @@ Underfull \hbox (badness 3942) in paragraph at lines 19--19
 []|\T1/cmr/m/n/10.95 Kentañ gwech en doa Tomaz
  []
 
-[95]
+[81
+
+
+
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 29--29
 []|\T1/cmr/m/n/10.95 Une brume tombe, mouil-lée
  []
@@ -1294,44 +1295,43 @@ Underfull \hbox (badness 4353) in paragraph at lines 33--33
 []|\T1/cmr/m/n/10.95 On en-tendait gron-der la bise
  []
 
-) [96]
+) [82]
 \openout2 = `chapters/Frazenn_gemplezh.aux'.
 
  (./chapters/Frazenn_gemplezh.tex
 \bbl@ensure@breton {Pennad} 19.
 
 Overfull \hbox (5.60086pt too wide) in paragraph at lines 3--3
-[]\T1/cmr/bx/n/14.4 Lavarennoù kenurzhiet troet gant un islavarenn
+|[]\T1/cmr/bx/n/14.4 Lavarennoù kenurzhiet troet gant un islavarenn
  []
 
-[97
+[83
 
 
 
 
-]) [98]
+]) [84]
 \openout2 = `chapters/Treuzkas_mennozh_an_dalch_e_brezhoneg.aux'.
 
  (./chapters/Treuzkas_mennozh_an_dalch_e_brezhoneg.tex
 \bbl@ensure@breton {Pennad} 20.
-[99
+[85
 
 
 
 
-]) [100]
+]) [86]
 \openout2 = `chapters/IndeksoÃ¹.aux'.
 
- (./chapters/IndeksoÃ¹.tex [101
+ (./chapters/IndeksoÃ¹.tex) [87
 
 
 
 
-] [102])
+]
 \openout2 = `chapters/Levrlennadurezh.aux'.
 
-
-(./chapters/Levrlennadurezh.tex
+ (./chapters/Levrlennadurezh.tex
 \bbl@ensure@breton {Pennad} 21.
 
 Overfull \hbox (0.57272pt too wide) in paragraph at lines 11--12
@@ -1353,7 +1353,7 @@ Overfull \hbox (5.31036pt too wide) in paragraph at lines 23--24
 
  []
 
-[103
+[88
 
 
 
@@ -1376,7 +1376,7 @@ Overfull \hbox (5.71173pt too wide) in paragraph at lines 49--50
 gra-phie) (préf. Bokova,
  []
 
-[104]) [105] (./main.aux (./chapters/Digoradur.aux)
+[89]) [90] (./main.aux (./chapters/Digoradur.aux)
 (./chapters/TrugarekadennoÃ¹.aux) (./chapters/Kinnig_ar_raktres.aux)
 (./chapters/PrÃ©sentation_du_projet_en_franÃ§ais.aux)
 (./chapters/Project_presentation_in_English.aux)
@@ -1406,10 +1406,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 68F2FF623AAC1CE6A68A0DA0E87AA669;26173.
  ) 
 Here is how much of TeX's memory you used:
- 11592 strings out of 467538
- 201122 string characters out of 5419547
- 613252 words of memory out of 5000000
- 39778 multiletter control sequences out of 15000+600000
+ 11852 strings out of 467538
+ 204759 string characters out of 5419547
+ 619505 words of memory out of 5000000
+ 40067 multiletter control sequences out of 15000+600000
  646002 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  90i,6n,93p,1723b,631s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1426,10 +1426,10 @@ ive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texliv
 e/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/
 2025/texmf-dist/fonts/type1/public/cm-super/sfsl1095.pfb></usr/local/texlive/20
 25/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb>
-Output written on main.pdf (105 pages, 491792 bytes).
+Output written on main.pdf (90 pages, 488866 bytes).
 PDF statistics:
- 1472 PDF objects out of 1728 (max. 8388607)
- 1318 compressed objects within 14 object streams
- 404 named destinations out of 1000 (max. 500000)
+ 1383 PDF objects out of 1440 (max. 8388607)
+ 1245 compressed objects within 13 object streams
+ 371 named destinations out of 1000 (max. 500000)
  1065 words of extra memory for PDF output out of 10000 (max. 10000000)
 
